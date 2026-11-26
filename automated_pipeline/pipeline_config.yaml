@@ -1,0 +1,96 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# WorldQuant BRAIN — Automated Simulation Pipeline Configuration
+# ──────────────────────────────────────────────────────────────────────────────
+
+# ── Market Settings ──────────────────────────────────────────────────────────
+market:
+  instrument_type: "EQUITY"
+  region: "USA"
+  universe: "TOP3000"
+  delay: 1 
+
+# ── Dataset Filters ──────────────────────────────────────────────────────────
+# Only datasets satisfying ALL of these constraints are selected.
+dataset_filters:
+  coverage_min: 0.0          # exclusive lower bound
+  coverage_max: 1.0          # inclusive upper bound
+  field_count_min: 1         # exclusive lower bound (fieldCount > 0)
+  field_count_max: 1000      # exclusive upper bound (fieldCount < 1000)
+  user_count_min: 1          # exclusive lower bound
+  user_count_max: 1000       # exclusive upper bound
+  value_score_min: 0.0       # exclusive lower bound
+  value_score_max: 10.0      # exclusive upper bound
+  sort_by: "valueScore"
+  sort_ascending: false
+  # Category filter — leave empty string "" for all categories.
+  # Examples: "SENTIMENT", "FUNDAMENTAL", "ANALYST", "PRICE_VOLUME"
+  category: "fundamental"
+
+# ── Expression Templates ─────────────────────────────────────────────────────
+expressions:
+  # Time-series lookback windows (the "a" parameter in ts_op(…, a))
+  lookback_days:
+    - 10
+    - 30 
+    - 60
+
+  # Which built-in template types to generate (set false to disable)
+  templates:
+    sentiment_comparison: false   # ts_op(vec_op(neg_field) - vec_op(pos_field), a)
+    vector_ops: false             # ts_op(vec_op(vector_field), a)
+    matrix_ops: false             # ts_op(matrix_field, a)
+
+  # Custom expression templates with {placeholder} expansion.
+  # Each template is expanded via Cartesian product of all placeholders.
+  # Available: {ts_op}, {vec_op}, {field}, {vector_field}, {matrix_field},
+  #            {pos}, {neg}, {lookback}
+  # Examples:
+  #   - "ts_delta({field}, {lookback})"
+  #   - "rank({ts_op}({vector_field}, {lookback}))"
+  #   - "group_neutralize({ts_op}({field}, {lookback}), sector)"
+  custom_templates:
+    - "ts_rank({matrix_field}, {lookback}) - ts_mean({matrix_field}, {lookback})"
+    - "group_neutralize(ts_zscore({matrix_field}, {lookback}), industry)"
+
+# ── Alpha / Simulation Settings ─────────────────────────────────────────────
+simulation:
+  alpha_type: "REGULAR"
+  decay: 4
+  neutralization: "INDUSTRY"
+  truncation: 0.1
+  pasteurization: "ON"
+  test_period: "P2Y"
+  unit_handling: "VERIFY"
+  nan_handling: "OFF"
+  max_trade: "OFF"
+  visualization: false
+
+  # Batching
+  batch_size: 200              # alphas per simulation batch
+  multi_sim_limit: 10          # max alphas per multi-simulation call (2–10)
+  concurrent_limit: 3          # max parallel simulation batches (1–8)
+
+  # Session management
+  relogin_threshold_s: 2000    # re-authenticate when session TTL < this
+
+# ── Safe Polling (Retry-After fix) ───────────────────────────────────────────
+polling:
+  max_wait_s: 3600             # hard ceiling per simulation poll
+  default_interval_s: 5        # fallback sleep when Retry-After absent
+  max_http_retries: 3          # transient HTTP errors tolerated per poll
+
+# ── Output ───────────────────────────────────────────────────────────────────
+output:
+  results_dir: "pipeline_results"
+  cache_file: "simulation_cache.parquet"
+  save_pnl: false
+  save_stats: false
+  save_result_file: false
+  check_submission: false
+  check_self_corr: false
+  check_prod_corr: false
+
+# ── Telegram Notifications (optional) ────────────────────────────────────────
+telegram:
+  enabled: false
+  # Reads from .env: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID

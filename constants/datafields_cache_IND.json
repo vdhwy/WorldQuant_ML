@@ -1,0 +1,5628 @@
+[
+    {
+        "id":"closing_price_dlr1",
+        "description":"Daily closing price for the security, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":50,
+        "alphaCount":99,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"closing_price_dlr2",
+        "description":"Closing price for the trading day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":42,
+        "alphaCount":78,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"five_day_total_return_dlr1",
+        "description":"Stock return over the last 5 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":49,
+        "alphaCount":66,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"five_day_total_return_dlr2",
+        "description":"Stock return over the last 5 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":40,
+        "alphaCount":106,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"highest_price_dlr1",
+        "description":"Daily highest traded price (session high) for the security, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":21,
+        "alphaCount":43,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"highest_price_dlr2",
+        "description":"Highest traded price of the day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":23,
+        "alphaCount":38,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"lowest_price_dlr1",
+        "description":"Daily lowest traded price (session low) for the security, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":9,
+        "alphaCount":22,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"lowest_price_dlr2",
+        "description":"Lowest traded price of the day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":29,
+        "alphaCount":60,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"market_capitalization_dlr1",
+        "description":"Market capitalization as of the as-of-date close (price \u00d7 shares outstanding), D1-delayed, point-in-time, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":28,
+        "alphaCount":45,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"market_capitalization_dlr2",
+        "description":"Europe region market capitalization as of close (price times shares outstanding), D1-delayed, point-in-time, currency- and split-adjusted, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":36,
+        "alphaCount":56,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_day_total_return_dlr1",
+        "description":"Daily (1-day) stock return for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":32,
+        "alphaCount":46,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_day_total_return_dlr2",
+        "description":"Daily stock return (1 trading day) for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":20,
+        "alphaCount":48,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_twenty_day_total_return_dlr1",
+        "description":"Stock return over the last 120 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9894,
+        "userCount":29,
+        "alphaCount":55,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_twenty_day_total_return_dlr2",
+        "description":"Stock return over the last 120 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9894,
+        "userCount":29,
+        "alphaCount":47,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"opening_price_dlr1",
+        "description":"Daily opening price for the stock in the Europe region (D1-delayed, point-in-time, split- and FX-adjusted, event-masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":15,
+        "alphaCount":29,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"opening_price_dlr2",
+        "description":"Opening price for the trading day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":14,
+        "alphaCount":34,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"shares_outstanding_dlr1",
+        "description":"Shares outstanding for the stock as of the as-of-date in the Europe region (D1-delayed, point-in-time, masked if unavailable)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":17,
+        "alphaCount":29,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"shares_outstanding_dlr2",
+        "description":"Shares outstanding as of the as-of-date, point-in-time and D1-delayed, masked when unavailable or invalid",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":28,
+        "alphaCount":35,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"sixty_day_total_return_dlr1",
+        "description":"Stock return over the last 60 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9997,
+        "userCount":25,
+        "alphaCount":32,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"sixty_day_total_return_dlr2",
+        "description":"Stock return over the last 60 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9997,
+        "userCount":18,
+        "alphaCount":35,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"trading_volume_dlr1",
+        "description":"Total traded volume for the day, D1-delayed, point-in-time, event-masked per calendar and events",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":18,
+        "alphaCount":24,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"trading_volume_dlr2",
+        "description":"Europe region daily traded volume, D1-delayed, point-in-time, with event and calendar masking",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":16,
+        "alphaCount":20,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"twenty_day_total_return_dlr1",
+        "description":"Stock return over the last 20 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":21,
+        "alphaCount":35,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"twenty_day_total_return_dlr2",
+        "description":"Stock return over the last 20 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":20,
+        "alphaCount":46,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"two_fifty_day_total_return_dlr1",
+        "description":"Stock return over the last 250 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9688,
+        "userCount":23,
+        "alphaCount":25,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"two_fifty_day_total_return_dlr2",
+        "description":"Stock return over the last 250 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9688,
+        "userCount":18,
+        "alphaCount":34,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"volume_weighted_avg_price_dlr1",
+        "description":"Daily volume-weighted average price, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9927,
+        "userCount":15,
+        "alphaCount":33,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"volume_weighted_avg_price_dlr2",
+        "description":"Europe region daily volume-weighted average price, D1-delayed, point-in-time, split- and currency-adjusted, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9931,
+        "userCount":16,
+        "alphaCount":26,
+        "pyramidMultiplier":1.2,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"composite_story_sentiment_score",
+        "description":"Composite Sentiment Score (0\u2013100) representing story-level sentiment from combined techniques",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":70,
+        "alphaCount":133,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"corporate_action_sentiment_score",
+        "description":"Reports on corporate actions score (proprietary composite related to corporate actions)",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":37,
+        "alphaCount":59,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"editorial_commentary_sentiment_score",
+        "description":"A sentiment score for short commentary and editorials on equity markets.",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":29,
+        "alphaCount":46,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"entity_news_relevance_score",
+        "description":"Score (0\u2013100) indicating how strongly the entity is related to the news story; 100 = primary\/highly relevant",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":40,
+        "alphaCount":67,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"event_novelty_rating",
+        "description":"Event Novelty Score (0\u2013100) measuring how new\/novel a story is within 24 hours in the given package",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":11,
+        "alphaCount":13,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"event_novelty_time_difference",
+        "description":"Event Novelty Elapsed Time in milliseconds since the first story in the event novelty chain within the same package",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":13,
+        "alphaCount":23,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"event_specific_sentiment_score",
+        "description":"Event Sentiment Score (0\u2013100) measuring short-term positive\/negative sentiment for the entity; higher is more positive, below 50 is negative",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":12,
+        "alphaCount":15,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"future_earnings_projection_sentiment",
+        "description":"A sentiment score for news about future earnings, developments, and projections for equities.",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":27,
+        "alphaCount":52,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"global_event_novelty_rating",
+        "description":"Global Event Novelty Score (0\u2013100) measuring how new\/novel a story is across all news providers within 24 hours",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":20,
+        "alphaCount":24,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"global_novelty_time_difference",
+        "description":"Global Event Novelty Elapsed Time in milliseconds between the first story and the current story in a global novelty chain across all providers",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":17,
+        "alphaCount":28,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"merger_acquisition_sentiment_score_3",
+        "description":"A sentiment score reflecting the tone of news about mergers, acquisitions, and takeovers.",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":33,
+        "alphaCount":50,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_elw",
+        "description":"Word and phrase detection score",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":42,
+        "alphaCount":60,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ens",
+        "description":"Event Novelty Score (0\u2013100) measuring the uniqueness or freshness of the story",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":16,
+        "alphaCount":33,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ens_elapsed",
+        "description":"Elapsed time in milliseconds since the first story in the event novelty chain",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":12,
+        "alphaCount":13,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ens_key",
+        "description":"An alphanumeric identifier that provides a way to chain or relate stories about the same categorized event for the same entities.",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":23,
+        "alphaCount":40,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ens_key_off",
+        "description":"An alphanumeric identifier that provides a way to chain or relate stories about the same categorized event for the same entities.",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":18,
+        "alphaCount":23,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ess",
+        "description":"Event Sentiment Score (0\u2013100) based on the tone of the news",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":17,
+        "alphaCount":19,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_g_ens",
+        "description":"Global Event Novelty Score (0\u2013100) indicating how new a story is within a 24-hour window across all providers",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":13,
+        "alphaCount":16,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_g_ens_elapsed",
+        "description":"Elapsed time in milliseconds since the first story in the global novelty chain across providers",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":15,
+        "alphaCount":21,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_mce",
+        "description":"Event information",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":52,
+        "alphaCount":93,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_mcp",
+        "description":"Projections, corporate news score",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":23,
+        "alphaCount":44,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_mcr",
+        "description":"Reports on corporate actions score",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":31,
+        "alphaCount":57,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_mcv",
+        "description":"Venture, corporate, mergers and acquisitions score",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":39,
+        "alphaCount":81,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_news_type",
+        "description":"Type of news story (e.g., formal, rumor, opinion, legal), codebook-based",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":29,
+        "alphaCount":59,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_nip",
+        "description":"News Impact Projections score (0\u2013100) estimating market impact over the next two hours",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":33,
+        "alphaCount":59,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_mean_ens",
+        "description":"Mean Event Novelty Score (0\u2013100) indicating how new or unique the news is within a 24-hour window across stories in the package; higher values mean more novel",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3793,
+        "userCount":18,
+        "alphaCount":34,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_mean_ess",
+        "description":"Mean Event Sentiment Score (0\u2013100) measuring news sentiment for the entity based on proxies sampled from news; values above 50 indicate positive sentiment and below 50 indicate negative",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3793,
+        "userCount":16,
+        "alphaCount":28,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_mean_nip",
+        "description":"Mean News Impact Projections score (0\u2013100) estimating the short-term market impact of associated news over the next two hours; higher values indicate greater projected impact and interpretation can vary by time of day",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.7237,
+        "userCount":48,
+        "alphaCount":84,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_mean_relevance",
+        "description":"Mean relevance score (0\u2013100) indicating how central the entity is to the news; 100 means the entity is a primary focus",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.7237,
+        "userCount":49,
+        "alphaCount":80,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_mean_ssc",
+        "description":"Mean Composite Sentiment Score (0\u2013100) summarizing the overall news tone for the entity by combining multiple sentiment analysis techniques; higher values indicate more positive sentiment",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.7237,
+        "userCount":38,
+        "alphaCount":64,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_sum_ens",
+        "description":"A novelty score (0-100) indicating how \"new\" or original a news story is within a 24-hour time frame among a set of stories",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3796,
+        "userCount":17,
+        "alphaCount":22,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_sum_ess",
+        "description":"A granular news sentiment score (0-100) indicating positive or negative financial\/economic sentiment for a given entity, derived from systematic analysis of news stories",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3796,
+        "userCount":16,
+        "alphaCount":17,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_sum_nip",
+        "description":"A score (0-100) representing the expected market impact of a news flash over the subsequent two-hour period, varying by time of day of the news arrival",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.7237,
+        "userCount":49,
+        "alphaCount":95,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_sum_relevance",
+        "description":"A score (0-100) that reflects how strongly the entity is connected to the news story, with higher values showing higher relevance and 100 meaning the entity is central to the story",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.7237,
+        "userCount":33,
+        "alphaCount":63,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_sum_ssc",
+        "description":"A composite sentiment score (0-100) for a news story, calculated by aggregating multiple sentiment analysis methods",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.7237,
+        "userCount":36,
+        "alphaCount":97,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ravenpack_sum_story_count",
+        "description":"Sum of story counts over the aggregation window",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.7237,
+        "userCount":67,
+        "alphaCount":120,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_relevance",
+        "description":"Relevance score (0\u2013100) indicating the importance of the story to the entity",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":22,
+        "alphaCount":33,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_ssc",
+        "description":"Composite Sentiment Score for the story or entity (0\u2013100)",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":21,
+        "alphaCount":42,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_story_count",
+        "description":"Story count",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":22,
+        "alphaCount":47,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_story_index",
+        "description":"Story index",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":23,
+        "alphaCount":37,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws46_time",
+        "description":"Publication time of the news story",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":28,
+        "alphaCount":65,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_volatility_impact_projection",
+        "description":"0\u2013100 score estimating the market impact of a news flash over the next two hours, scaled by time-of-day",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":37,
+        "alphaCount":73,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"positive_negative_word_sentiment_score",
+        "description":"A sentiment score specializing in identifying positive and negative words and phrases in news articles.",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":28,
+        "alphaCount":40,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"story_entity_record_count",
+        "description":"Total number of stories in the chain or burst associated with the event",
+        "dataset":{
+            "id":"news46",
+            "name":"Relevant News Analytics Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news-sentiment",
+            "name":"News Sentiment"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":24,
+        "alphaCount":49,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_receivable_current_assets",
+        "description":"Accounts receivable included in current assets for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8387,
+        "userCount":224,
+        "alphaCount":292,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"annual_fiscal_month_number",
+        "description":"The fiscal month number corresponding to the end of the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9799,
+        "userCount":64,
+        "alphaCount":84,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"annual_fiscal_year_number",
+        "description":"The fiscal year associated with the annual reporting period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9799,
+        "userCount":105,
+        "alphaCount":173,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"annual_net_income_value",
+        "description":"Net income reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9891,
+        "userCount":226,
+        "alphaCount":369,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"annual_reporting_currency_code",
+        "description":"The currency code in which annual financial values are presented after conversion.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9799,
+        "userCount":30,
+        "alphaCount":41,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"currency_of_converted_financials",
+        "description":"Currency in which the financial values have been converted for reporting.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8745,
+        "userCount":26,
+        "alphaCount":33,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"fnd23_annfv_value",
+        "description":"annual financial values.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.6755,
+        "userCount":68,
+        "alphaCount":97,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"fnd23_pamonper",
+        "description":"maps each rep identifier to an instrument on a given day.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.3255,
+        "userCount":32,
+        "alphaCount":42,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"fnd23_repnotickermap",
+        "description":"maps each rep to a ticker on a given day.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":1.0,
+        "userCount":97,
+        "alphaCount":138,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"interim_fiscal_month",
+        "description":"The fiscal month corresponding to the interim reporting period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8745,
+        "userCount":64,
+        "alphaCount":89,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"interim_fiscal_year",
+        "description":"The fiscal year corresponding to the interim reporting period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8745,
+        "userCount":61,
+        "alphaCount":78,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"interim_period_sequence_number_2",
+        "description":"Sequence number of the interim period within the fiscal year.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8745,
+        "userCount":80,
+        "alphaCount":107,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"long_term_collateral_debt",
+        "description":"Long-term collateralized debt reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8785,
+        "userCount":99,
+        "alphaCount":143,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"long_term_contract_liabilities",
+        "description":"Long-term contract liabilities reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9087,
+        "userCount":51,
+        "alphaCount":65,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"long_term_debt_total",
+        "description":"Total long-term debt reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9233,
+        "userCount":102,
+        "alphaCount":174,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"long_term_loans_liabilities",
+        "description":"Long-term loans and liabilities reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9887,
+        "userCount":73,
+        "alphaCount":93,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"long_term_trade_debt",
+        "description":"Long-term trade debt reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9878,
+        "userCount":130,
+        "alphaCount":221,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"other_accumulated_reserves",
+        "description":"Other accumulated reserves reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9049,
+        "userCount":89,
+        "alphaCount":124,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"other_appropriations_balance",
+        "description":"Other appropriations balance reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.85,
+        "userCount":81,
+        "alphaCount":92,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"other_interest_liabilities",
+        "description":"Other interest-bearing liabilities reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.7976,
+        "userCount":160,
+        "alphaCount":223,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"other_long_term_obligations",
+        "description":"Other long-term obligations reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9858,
+        "userCount":96,
+        "alphaCount":141,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"other_net_equity_total",
+        "description":"Total of other net equity items for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9766,
+        "userCount":178,
+        "alphaCount":281,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"other_off_balance_liabilities",
+        "description":"Other off-balance sheet liabilities for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8219,
+        "userCount":62,
+        "alphaCount":73,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"other_operating_assets",
+        "description":"Other operating assets reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8365,
+        "userCount":56,
+        "alphaCount":67,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"quasi_equity_contracts",
+        "description":"Quasi-equity contracts reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.988,
+        "userCount":50,
+        "alphaCount":63,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"quasi_equity_liabilities",
+        "description":"Quasi-equity liabilities reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9887,
+        "userCount":61,
+        "alphaCount":86,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"retained_earnings_liabilities",
+        "description":"Retained earnings classified as liabilities for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9254,
+        "userCount":32,
+        "alphaCount":38,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"securities_deferred_net_income",
+        "description":"Deferred net income related to securities for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9894,
+        "userCount":50,
+        "alphaCount":71,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"share_capital_extraordinary",
+        "description":"Extraordinary share capital reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9829,
+        "userCount":71,
+        "alphaCount":102,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"share_capital_ordinary",
+        "description":"Ordinary share capital reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9058,
+        "userCount":54,
+        "alphaCount":58,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"share_capital_subscribed",
+        "description":"Share capital subscribed reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9155,
+        "userCount":155,
+        "alphaCount":250,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"share_deposit_equity",
+        "description":"Share deposit equity reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9766,
+        "userCount":36,
+        "alphaCount":42,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"share_dividend_equity",
+        "description":"Share dividend equity reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9766,
+        "userCount":45,
+        "alphaCount":60,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"statement_of_cash_flows",
+        "description":"Statement of cash flows for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9863,
+        "userCount":77,
+        "alphaCount":115,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"total_assets_annual_atot",
+        "description":"Total assets reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9885,
+        "userCount":123,
+        "alphaCount":195,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"total_current_assets_4",
+        "description":"Total current assets reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9086,
+        "userCount":59,
+        "alphaCount":70,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"valuation_market_adjustment_amount",
+        "description":"Amount of market adjustment made to valuation.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.341,
+        "userCount":25,
+        "alphaCount":33,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"voting_amortized_investments",
+        "description":"Voting amortized investments reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9011,
+        "userCount":107,
+        "alphaCount":144,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"voting_beneficial_equity_shares",
+        "description":"Voting beneficial equity shares reported for the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9906,
+        "userCount":244,
+        "alphaCount":423,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_mention_count",
+        "description":"Total number of news items for the security\/date in the dataset",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3527,
+        "userCount":75,
+        "alphaCount":108,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_mention_count_2",
+        "description":"Number of news headlines for the given security and date",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9759,
+        "userCount":144,
+        "alphaCount":273,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_negative_mention_count",
+        "description":"Count of negative words in headlines across all news for a security\/date",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3527,
+        "userCount":41,
+        "alphaCount":60,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_negative_mention_count_2",
+        "description":"Total count of negative words appearing in all news headlines for the day",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9759,
+        "userCount":115,
+        "alphaCount":230,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_negative_tone_score",
+        "description":"Average proportion of negative words in news headlines, calculated as negative words divided by total words, across all news for the security\/date",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3527,
+        "userCount":42,
+        "alphaCount":59,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_negative_tone_score_2",
+        "description":"The average ratio of negative words to all words in all news headlines for the day",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9759,
+        "userCount":75,
+        "alphaCount":113,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_overall_tone_score",
+        "description":"average tone score calculated as (positive word count - negative word count) divided by (positive word count + negative word count) for headlines of news stories",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3527,
+        "userCount":38,
+        "alphaCount":50,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_overall_tone_score_2",
+        "description":"average normalized headline tone score across all news, calculated as (positive words - negative words) divided by (positive words + negative words) per headline",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9759,
+        "userCount":86,
+        "alphaCount":151,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_positive_mention_count",
+        "description":"Count of positive words in headlines across all news for a security\/date",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3527,
+        "userCount":21,
+        "alphaCount":29,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_positive_mention_count_2",
+        "description":"Total count of positive words appearing in all news headlines for the day",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9759,
+        "userCount":45,
+        "alphaCount":70,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_positive_tone_score",
+        "description":"Average proportion of positive words in news headlines, calculated as positive words divided by total words, across all news for the security\/date",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3527,
+        "userCount":27,
+        "alphaCount":41,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"headline_positive_tone_score_2",
+        "description":"The average ratio of positive words to all words in all news headlines for the day",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9759,
+        "userCount":54,
+        "alphaCount":72,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_broadcast_area_d1",
+        "description":"Identifier for the data center or region where the D1 news item was first broadcast.",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9757,
+        "userCount":6,
+        "alphaCount":6,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-04-01"
+    },
+    {
+        "id":"news_category_tag",
+        "description":"Integer code representing a classification tag for the news headline (e.g., M&A, Earnings, Regulatory), decoded via the PIT codebook",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":32,
+        "alphaCount":50,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_category_tag_d1",
+        "description":"Tag or label describing the news category or headline, possibly text or categorical",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":33,
+        "alphaCount":72,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_category_tag_livenews_all",
+        "description":"Integer code for fine-grained classification tag (e.g., \"M&A\", \"Earnings\"), resolved via codebook",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9757,
+        "userCount":4,
+        "alphaCount":4,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-04-01"
+    },
+    {
+        "id":"news_display_name_livenews_all",
+        "description":"Code indicating message subtype (e.g., 0-alert, 1-first take, 2-subsequent take, etc.)",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9757,
+        "userCount":2,
+        "alphaCount":3,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-04-01"
+    },
+    {
+        "id":"news_geographic_area_livenews_all",
+        "description":"Code for Data Centre where news was first broadcast (e.g., 0-NY, 1-LD, 2-LO, 3-HA)",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9757,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-04-01"
+    },
+    {
+        "id":"news_headline_tag_d1_2",
+        "description":"Label at the start of a D1 headline indicating the type or status of the news story.",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9757,
+        "userCount":3,
+        "alphaCount":3,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-04-01"
+    },
+    {
+        "id":"news_item_value",
+        "description":"news type value",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":66,
+        "alphaCount":141,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_item_value_d1",
+        "description":"news type value",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":72,
+        "alphaCount":222,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_mention_frequency_1",
+        "description":"Count of news stories per security and date in the EUR region for the real-time (D0) module, excluding stories containing the keyword \"insider\"",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9755,
+        "userCount":65,
+        "alphaCount":121,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_mention_frequency_d0",
+        "description":"The number of news events or articles detected for each security and date in the Asia region on a real-time (intraday) basis",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9761,
+        "userCount":62,
+        "alphaCount":98,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_mention_frequency_d0_twn",
+        "description":"Count of news events per Taiwan-listed security on a given date, captured at real-time\/intraday (D0) timing within the Asia module",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9761,
+        "userCount":49,
+        "alphaCount":75,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_mention_frequency_d0_twn_alt",
+        "description":"Total number of news stories per security and date for Taiwan-listed companies in the Asia news frequency module at real-time\/intraday (D0) delay",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9757,
+        "userCount":60,
+        "alphaCount":80,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_mention_frequency_simple",
+        "description":"Count of news articles related to a security on a given date in China, excluding those containing \"insider\" keywords",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9755,
+        "userCount":56,
+        "alphaCount":94,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_message_display_name_d1",
+        "description":"Display name or label for the D1 message subtype, such as alert or correction.",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9757,
+        "userCount":2,
+        "alphaCount":2,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-04-01"
+    },
+    {
+        "id":"news_related_count",
+        "description":"Number of financial instruments affected or mentioned in the news event",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":42,
+        "alphaCount":76,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_related_count_d1",
+        "description":"Number of instruments or entities mentioned or affected in the news story",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":36,
+        "alphaCount":100,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_sales_mention_count",
+        "description":"Daily count of news articles for European securities that mention sales-related keywords (e.g., sale, sales) or earnings, aggregated per security per date",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.3677,
+        "userCount":35,
+        "alphaCount":63,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_take_sequence_number_d1",
+        "description":"Sequence number indicating the order of alerts or updates within a D1 news story.",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9757,
+        "userCount":6,
+        "alphaCount":7,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-04-01"
+    },
+    {
+        "id":"news_topic_name_2",
+        "description":"index to type name",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":14,
+        "alphaCount":17,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_topic_name_d1_2",
+        "description":"Type name (human-readable label) corresponding to the event type code, resolved via codebook",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":13,
+        "alphaCount":14,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws76_classnum",
+        "description":"Numeric classification label for the specified newswire or story",
+        "dataset":{
+            "id":"news76",
+            "name":"Textual News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.8217,
+        "coverage":0.9909,
+        "userCount":46,
+        "alphaCount":63,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-10-01"
+    },
+    {
+        "id":"mws76_confidence",
+        "description":"Per-entity confidence values aligned with Score sentiment uses 0 to 100 MMN uses 0 to 1 probability of market move",
+        "dataset":{
+            "id":"news76",
+            "name":"Textual News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.8217,
+        "coverage":0.9909,
+        "userCount":29,
+        "alphaCount":39,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-10-01"
+    },
+    {
+        "id":"mws76_score",
+        "description":"Per-entity analytics score array: sentiment uses -1 negative 0 neutral 1 positive; MMN and MMN_1STPASS are 1 for tagged entities",
+        "dataset":{
+            "id":"news76",
+            "name":"Textual News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.8217,
+        "coverage":0.9909,
+        "userCount":31,
+        "alphaCount":43,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-10-01"
+    },
+    {
+        "id":"mws76_timeofarrival",
+        "description":"UTC timestamp when the story was first created in Bloomberg systems",
+        "dataset":{
+            "id":"news76",
+            "name":"Textual News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.8217,
+        "coverage":0.9909,
+        "userCount":16,
+        "alphaCount":18,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-10-01"
+    },
+    {
+        "id":"mws76_version",
+        "description":"Version number of the underlying analytics model used to generate the record",
+        "dataset":{
+            "id":"news76",
+            "name":"Textual News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.8217,
+        "coverage":0.9909,
+        "userCount":32,
+        "alphaCount":47,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-10-01"
+    },
+    {
+        "id":"news_story_title",
+        "description":"Story headline text subject to entitlements",
+        "dataset":{
+            "id":"news76",
+            "name":"Textual News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":0.8217,
+        "coverage":0.9909,
+        "userCount":19,
+        "alphaCount":21,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-10-01"
+    },
+    {
+        "id":"market_impact_indicator",
+        "description":"A numeric measure of the level of attention, novelty, or \u201cheat\u201d associated with a news story; higher values indicate more attention or crowding around this story",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.5747,
+        "userCount":30,
+        "alphaCount":34,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_action",
+        "description":"Integer code describing the lifecycle event or state (e.g. add, update, cancel), requires label-mapping for precise meaning",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.5747,
+        "userCount":58,
+        "alphaCount":86,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_analytics_entitlement",
+        "description":"System\/internal field for permissioning or logical gating; must not be used for modeling\/analytics",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9433,
+        "userCount":61,
+        "alphaCount":131,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_analytics_time",
+        "description":"Publication time of the analytics entry as an integer (hhmmss), region-compliant",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9433,
+        "userCount":49,
+        "alphaCount":71,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_d1_action",
+        "description":"Integer code describing the type of event for the story (e.g., add, update, cancel); must be label-mapped for exact meaning using module\/date-specific overlays",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":49,
+        "alphaCount":85,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_d1_entitlement",
+        "description":"Internal field for system permissioning or data access control; should not be used for modeling or analytics",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":36,
+        "alphaCount":62,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_d1_hotlevel",
+        "description":"A quantitative score representing the attention, novelty, or \u201cheat\u201d level of a news story; higher value indicates more crowd or news attention",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":39,
+        "alphaCount":52,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_d1_related_num",
+        "description":"Number of related entities or news items linked to this story; used in crowding or attention analytics",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":37,
+        "alphaCount":49,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_d1_relevances",
+        "description":"Degree of relevance the news has to the corresponding stock; likely a score reflecting topical\/entity\/stock connection",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":33,
+        "alphaCount":65,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_d1_time",
+        "description":"Time the news story was published, as integer in hhmmss regional format",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":42,
+        "alphaCount":62,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_d1_version",
+        "description":"Numeric code representing the version or revision number of the story; indicates if and how the story text has been updated or changed",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":31,
+        "alphaCount":56,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_entitlement",
+        "description":"System\/internal field indicating permissioning or logical gating for access; must not be used in research or modeling as it relates only to internal Bloomberg system rules",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.5747,
+        "userCount":43,
+        "alphaCount":78,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_entitlement",
+        "description":"A system\/internal field used for permissioning or logical gating; contains internal system information and must not be used for modeling or analytics",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":36,
+        "alphaCount":56,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_tc_entitlement",
+        "description":"Internal system or permissioning field, used for logical gating; must be excluded from analytics or modeling",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":39,
+        "alphaCount":77,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_tc_time",
+        "description":"Publication time of the news story, as integer hhmmss in region-local time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":24,
+        "alphaCount":40,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_time",
+        "description":"Publication time of the news headline, as integer hhmmss in local region timezone",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":32,
+        "alphaCount":47,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_negative_freq",
+        "description":"Raw count of negatively scored words or tokens found in the headline; not normalized",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":38,
+        "alphaCount":62,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_negative_score",
+        "description":"Magnitude of negative sentiment features detected in the news headline; always zero or positive",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":53,
+        "alphaCount":97,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_positive_freq",
+        "description":"Raw count of positively scored words or tokens found in the headline; not normalized",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":29,
+        "alphaCount":48,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_positive_score",
+        "description":"Magnitude of positive sentiment features detected in the news headline; always zero or positive",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":66,
+        "alphaCount":127,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_previous",
+        "description":"Pointer or index referencing the previous event tuple in the same story chain or analytic sequence",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9433,
+        "userCount":35,
+        "alphaCount":71,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_related_num",
+        "description":"Number of stocks or entities related to or affected by the news",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.5747,
+        "userCount":44,
+        "alphaCount":107,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_relevances",
+        "description":"Numeric score(s) indicating how relevant the news is to the corresponding stock(s); higher values indicate stronger relevance",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.5747,
+        "userCount":29,
+        "alphaCount":55,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_score",
+        "description":"Composite or rolling sentiment\/analytics score for a company-date or entity-date tuple within the module",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9433,
+        "userCount":54,
+        "alphaCount":90,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_negative_freq",
+        "description":"Raw count of negatively scored tokens or words detected in the headline of the news story",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":65,
+        "alphaCount":183,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_negative_score",
+        "description":"Magnitude (float, >=0) of negative sentiment features detected in the headline by the tonal analytics model",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":54,
+        "alphaCount":138,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_positive_freq",
+        "description":"Raw count of positively scored tokens or words detected in the headline of the news story",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":26,
+        "alphaCount":52,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_positive_score",
+        "description":"Magnitude (float, >=0) of positive sentiment features detected in the headline by the tonal analytics model",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":27,
+        "alphaCount":37,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_tone_score",
+        "description":"Float value representing overall sentiment score of the news headline, typically normalized from -1 (very negative) to +1 (very positive)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":94,
+        "alphaCount":225,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_time",
+        "description":"Integer representing the news publication time in hhmmss format (local market time zone)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.5747,
+        "userCount":32,
+        "alphaCount":56,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tone_score",
+        "description":"General sentiment or tonality score for the news headline, normalized between -1 (most negative) to +1 (most positive)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":49,
+        "alphaCount":111,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_type",
+        "description":"Categorical code representing the analytic or news type, which must be dynamically label-mapped to decode its exact meaning for each dataset or time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9433,
+        "userCount":45,
+        "alphaCount":80,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_action",
+        "description":"Code representing the lifecycle event of a news story (e.g., added, updated, cancelled); must be mapped to its label per module\/date",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":32,
+        "alphaCount":55,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_entitlement",
+        "description":"Integer or string for system\/internal permissioning; should be excluded from analytics or modeling",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":39,
+        "alphaCount":81,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_hotlevel",
+        "description":"Floating-point score indicating the level of attention, novelty, or \"heat\" of a news story; higher values reflect more crowding",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":17,
+        "alphaCount":23,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_related_num",
+        "description":"Number of stocks\/entities related to or affected by the news story",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":34,
+        "alphaCount":66,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_relevances",
+        "description":"Score(s) representing how relevant the news is to the corresponding stock(s)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":25,
+        "alphaCount":40,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_time",
+        "description":"Time when the news was published (formatted as hhmmss, region\/local time)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":33,
+        "alphaCount":71,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_version",
+        "description":"Numeric code indicating the version or revision of the news story; used to track updates",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9368,
+        "userCount":31,
+        "alphaCount":51,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_value",
+        "description":"News value",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9433,
+        "userCount":16,
+        "alphaCount":25,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_version",
+        "description":"Numeric code representing the version or revision number of the news story or event instance",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.5747,
+        "userCount":43,
+        "alphaCount":71,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"story_analytics_category",
+        "description":"Integer code representing the analytics type or classification for the story\/event, which must be dynamically label-mapped per module and date via NIO_IX overlays",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9372,
+        "userCount":30,
+        "alphaCount":46,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"story_analytics_metric_value",
+        "description":"Numeric value of the analytics metric for the news story.",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9372,
+        "userCount":81,
+        "alphaCount":190,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"story_analytics_relevance_score",
+        "description":"Composite or rolling analytics score (e.g., sentiment, attention, or relevance) for the news story at the given time point",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"IND",
+        "delay":1,
+        "universe":"TOP500",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9372,
+        "userCount":82,
+        "alphaCount":211,
+        "pyramidMultiplier":1.3,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    }
+]

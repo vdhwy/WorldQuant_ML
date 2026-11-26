@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+**/venv/
+**/.venv/
+
+# Secrets & credentials
+.env
+.env.*
+!.env.example
+credential.txt
+credentials.txt
+credential.json
+credentials.json
+*.pem
+*.key
+
+# Python caches & test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# macOS metadata
+.DS_Store

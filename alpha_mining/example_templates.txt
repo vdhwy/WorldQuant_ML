@@ -1,0 +1,32 @@
+# ============================================================================
+# EXAMPLE TEMPLATE FILE - alpha_mining
+# ============================================================================
+# Load this file from the GUI:
+#   Step 4 (Generate Alphas) -> Input Mode: "Load from File" -> BROWSE...
+#
+# FORMAT RULES (.txt):
+#   * One FASTEXPR expression per line
+#   * Blank lines are skipped
+#   * Lines starting with # are comments (ignored)
+#   * Optional region tag prefix per line: [USA] [EUR] [CHN] [ASI] [GLB] [IND]
+#       - Lines WITHOUT a tag use the "Default Region" dropdown value
+#   * Placeholders are allowed and get replaced automatically in Step 5:
+#       OPERATOR1, OPERATOR2, ...   -> real operators
+#       DATA_FIELD1, DATA_FIELD2, ... -> real data fields
+#
+# JSON alternative:
+#   ["ts_rank(close, 20)", {"template": "rank(close)", "region": "EUR"}]
+# ============================================================================
+
+# --- Momentum / reversal ---
+ts_rank(close, 20)
+[EUR] -ts_delta(close, 5)
+rank(ts_mean(returns, 10))
+
+# --- Volume-based ---
+[CHN] rank(ts_corr(close, volume, 10))
+ts_zscore(volume, 60)
+
+# --- Using placeholders (auto-filled at simulation time) ---
+OPERATOR1(DATA_FIELD1, 20)
+rank(ts_delta(DATA_FIELD1, OPERATOR2))

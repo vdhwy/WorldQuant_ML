@@ -1,0 +1,5483 @@
+[
+    {
+        "id":"closing_price_dlr1",
+        "description":"Daily closing price for the security, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":5,
+        "alphaCount":5,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"closing_price_dlr2",
+        "description":"Closing price for the trading day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":2,
+        "alphaCount":2,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"five_day_total_return_dlr1",
+        "description":"Stock return over the last 5 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":5,
+        "alphaCount":8,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"five_day_total_return_dlr2",
+        "description":"Stock return over the last 5 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":4,
+        "alphaCount":4,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"highest_price_dlr1",
+        "description":"Daily highest traded price (session high) for the security, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":3,
+        "alphaCount":3,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"highest_price_dlr2",
+        "description":"Highest traded price of the day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"lowest_price_dlr1",
+        "description":"Daily lowest traded price (session low) for the security, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":2,
+        "alphaCount":2,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"lowest_price_dlr2",
+        "description":"Lowest traded price of the day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"market_capitalization_dlr1",
+        "description":"Market capitalization as of the as-of-date close (price \u00d7 shares outstanding), D1-delayed, point-in-time, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"market_capitalization_dlr2",
+        "description":"Europe region market capitalization as of close (price times shares outstanding), D1-delayed, point-in-time, currency- and split-adjusted, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_day_total_return_dlr1",
+        "description":"Daily (1-day) stock return for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_day_total_return_dlr2",
+        "description":"Daily stock return (1 trading day) for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_twenty_day_total_return_dlr1",
+        "description":"Stock return over the last 120 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.982,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"one_twenty_day_total_return_dlr2",
+        "description":"Stock return over the last 120 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.982,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"opening_price_dlr1",
+        "description":"Daily opening price for the stock in the Europe region (D1-delayed, point-in-time, split- and FX-adjusted, event-masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"opening_price_dlr2",
+        "description":"Opening price for the trading day, split- and FX-adjusted, point-in-time and D1-delayed, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"shares_outstanding_dlr1",
+        "description":"Shares outstanding for the stock as of the as-of-date in the Europe region (D1-delayed, point-in-time, masked if unavailable)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"shares_outstanding_dlr2",
+        "description":"Shares outstanding as of the as-of-date, point-in-time and D1-delayed, masked when unavailable or invalid",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"sixty_day_total_return_dlr1",
+        "description":"Stock return over the last 60 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9999,
+        "userCount":2,
+        "alphaCount":4,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"sixty_day_total_return_dlr2",
+        "description":"Stock return over the last 60 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9999,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"trading_volume_dlr1",
+        "description":"Total traded volume for the day, D1-delayed, point-in-time, event-masked per calendar and events",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"trading_volume_dlr2",
+        "description":"Europe region daily traded volume, D1-delayed, point-in-time, with event and calendar masking",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"twenty_day_total_return_dlr1",
+        "description":"Stock return over the last 20 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"twenty_day_total_return_dlr2",
+        "description":"Stock return over the last 20 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":1.0,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"two_fifty_day_total_return_dlr1",
+        "description":"Stock return over the last 250 trading days for Americas-region equities, D1-delayed, point-in-time, split\/FX-adjusted and event-masked (rolling window masked if any day is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9467,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"two_fifty_day_total_return_dlr2",
+        "description":"Stock return over the last 250 trading days for Europe, D1-delayed and point-in-time, split\/FX-adjusted and event-masked (masked if any day in the window is masked)",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9467,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"volume_weighted_avg_price_dlr1",
+        "description":"Daily volume-weighted average price, D1-delayed, point-in-time, event-masked, split- and FX-adjusted",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9974,
+        "userCount":3,
+        "alphaCount":3,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"volume_weighted_avg_price_dlr2",
+        "description":"Europe region daily volume-weighted average price, D1-delayed, point-in-time, split- and currency-adjusted, event-masked",
+        "dataset":{
+            "id":"analyst_earnings_ibes",
+            "name":"Global Analyst Earnings Forecasts"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9974,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"company_total_market_value_3",
+        "description":"The total market value of a company's outstanding shares.",
+        "dataset":{
+            "id":"event_stock_model",
+            "name":"Corporate Event Driven Stock Model"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":0.9412,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"corporate_structure_event_score_2",
+        "description":"Model score for corporate structure and executive events in the global dataset.",
+        "dataset":{
+            "id":"event_stock_model",
+            "name":"Corporate Event Driven Stock Model"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":0.9412,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"earnings_financial_event_score_2",
+        "description":"Model score for earnings, financial, and product-related events in the global dataset.",
+        "dataset":{
+            "id":"event_stock_model",
+            "name":"Corporate Event Driven Stock Model"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-mlai-models",
+            "name":"ML\/AI Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":0.9507,
+        "coverage":0.9412,
+        "userCount":2,
+        "alphaCount":2,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"accounts_payable_current_3",
+        "description":"Current accounts payable balance.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9431,
+        "userCount":2,
+        "alphaCount":3,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_payable_deferred_accruals",
+        "description":"Deferred accruals included in accounts payable.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9472,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_payable_noncurrent_2",
+        "description":"Noncurrent portion of accounts payable.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9923,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_payable_previous_year",
+        "description":"Accounts payable balance from the previous year.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9755,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_payable_total_current",
+        "description":"Total current accounts payable amount.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9701,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_receivable_accrued",
+        "description":"Accrued accounts receivable not yet collected.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9771,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_receivable_gross_4",
+        "description":"Gross amount of accounts receivable outstanding.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9503,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_receivable_miscellaneous",
+        "description":"Other receivables not classified elsewhere on the balance sheet.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8857,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accounts_receivable_trade_current",
+        "description":"Current trade accounts receivable balance.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.98,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accrued_expenses_4",
+        "description":"Expenses that have been incurred but not yet paid.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9782,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accrued_income_from_government",
+        "description":"Income accrued from government sources not yet received.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8832,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accrued_interest_long_term_liabilities",
+        "description":"Accrued interest on long-term liabilities.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9584,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accrued_interest_noncurrent",
+        "description":"Accrued interest classified as noncurrent liability.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9613,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accrued_interest_payable_3",
+        "description":"Interest expense that has been incurred but not yet paid.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9903,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accrued_interest_within_period",
+        "description":"Interest accrued within the reporting period but not yet paid.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8141,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accumulated_amortization",
+        "description":"Total amortization accumulated on intangible assets to date.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9611,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accumulated_depreciation_4",
+        "description":"Total depreciation accumulated on tangible assets to date.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9653,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accumulated_depreciation_capital_assets",
+        "description":"Total accumulated depreciation on capital assets.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9708,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"accumulated_other_comprehensive_income",
+        "description":"Accumulated other comprehensive income at the reporting date.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.8767,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"advances_to_suppliers_2",
+        "description":"Payments made in advance to suppliers for goods or services.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.7761,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"advances_to_vendors",
+        "description":"[Quarterly] Advertising Expense",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.7659,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"allowance_doubtful_trade_accounts",
+        "description":"Allowance for doubtful trade accounts receivable.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9836,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"amortization_expense_current",
+        "description":"Current period amortization expense recognized.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.964,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"amortization_intangible_assets_2",
+        "description":"[Quarterly] Amortization of Intangibles",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.7427,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"annual_fiscal_month_number",
+        "description":"The fiscal month number corresponding to the end of the annual period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9663,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"annual_fiscal_year_number",
+        "description":"The fiscal year associated with the annual reporting period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9663,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"annual_reporting_currency_code",
+        "description":"The currency code in which annual financial values are presented after conversion.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9663,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"available_for_sale_investments",
+        "description":"Investments classified as available for sale under accounting standards.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9626,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"available_monetary_instruments",
+        "description":"Monetary instruments available for use or investment.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9651,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"bank_acceptances",
+        "description":"Total value of bank acceptances outstanding.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.7217,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"bank_debt_long_term",
+        "description":"Long-term debt owed to banks.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.823,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"bank_deposits_assets_4",
+        "description":"Assets held as bank deposits.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9604,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"beneficiary_equity_shares",
+        "description":"Equity shares held by beneficiaries or trusts.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9916,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"cash_and_marketable_equivalents_assets",
+        "description":"Total cash and marketable securities classified as assets.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.581,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"cash_and_marketable_investments_2",
+        "description":"Total cash and marketable investments held by the company.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9621,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"cash_in_acquisition_2",
+        "description":"Cash received or paid as part of an acquisition.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9916,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"currency_of_converted_financials",
+        "description":"Currency in which the financial values have been converted for reporting.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9931,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"current_equity_investments_assets",
+        "description":"Value of current equity investments classified as assets.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.5271,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"current_provisions_deferred",
+        "description":"Value of current provisions and deferred items.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.529,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"current_tax_assets",
+        "description":"Tax assets expected to be realized within one year.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.4149,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"deferred_compensation_granted_2",
+        "description":"Compensation granted to employees but deferred for future payment.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.99,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"deferred_income_noncurrent_2",
+        "description":"Noncurrent deferred income recognized on the balance sheet.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9916,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"deposits_total",
+        "description":"Total deposits held by the company.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9735,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"depreciation_expense_3",
+        "description":"[Quarterly] Depreciation\/Amortization",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9262,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"depreciation_expense_4",
+        "description":"Total depreciation expense recognized during the period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9595,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"dividends_declared_per_share",
+        "description":"Dividends declared per share for the period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9922,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"dividends_payable_long_term",
+        "description":"[Quarterly] Dividends per Share - Com Stock Issue 2",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.5542,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"dividends_payable_short_term",
+        "description":"[Quarterly] DPS - Common Stock Primary Issue",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9928,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"dividends_per_share_secondary",
+        "description":"Dividends paid per share for a secondary share class.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.5538,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"earnings_before_tax_4",
+        "description":"Earnings before tax for the reporting period.",
+        "dataset":{
+            "id":"fundamental23",
+            "name":"Fundamental Point in Time Data"
+        },
+        "category":{
+            "id":"fundamental",
+            "name":"Fundamental"
+        },
+        "subcategory":{
+            "id":"fundamental-fundamental-data",
+            "name":"Fundamental Data"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.9924,
+        "userCount":3,
+        "alphaCount":6,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"news_mention_frequency_simple",
+        "description":"Count of news articles related to a security on a given date in China, excluding those containing \"insider\" keywords",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.8863,
+        "userCount":38,
+        "alphaCount":112,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"nws7_qerf",
+        "description":"Number of news without insider\" key words\"",
+        "dataset":{
+            "id":"news7",
+            "name":"Real Time News Feed Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":1.0,
+        "coverage":0.6206,
+        "userCount":2,
+        "alphaCount":5,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2022-05-01"
+    },
+    {
+        "id":"balance_sheet_language_score",
+        "description":"Global 1\u2013100 rank based on language related to how the company structures its debt, stock, and accounts; higher scores indicate lower credit risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":2,
+        "alphaCount":2,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_model_structural_letter_grade_float",
+        "description":"Credit rating grade inferred from the structural risk model, as a floating point value.",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9108,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_country_percentile_score",
+        "description":"Percentile rank from 1 to 100 by country of the company\u2019s 1-year default probability, where higher values indicate safer credit",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_country_percentile_score_float_2",
+        "description":"The 0\u2013100 float percentile rank, by country, of the company\u2019s 1\u2011year default probability; higher values indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_country_percentile_score_float_5",
+        "description":"Float 0\u2013100 scaled percentile rank of the company\u2019s 1-year default probability by country; higher values indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_global_percentile_score",
+        "description":"Global 1\u2013100 percentile rank of the company\u2019s 1-year default probability based on the StarMine Text Mining Credit Risk Model; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_global_percentile_score_float_2",
+        "description":"Global peer percentile rank of 1-year PD scaled 0\u2013100; higher value indicates safer credit",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_global_percentile_score_float_5",
+        "description":"Global peer-relative safety rank scaled 0\u2013100 (percentile) based on text-mined credit risk; higher = safer globally",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_industry_percentile_score",
+        "description":"1\u2013100 percentile rank of 1-year default probability within the same region and TRBC Industry Group; higher scores indicate lower default risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6683,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_industry_percentile_score_float_2",
+        "description":"Industry peer-relative safety rank expressed as a 0\u2013100 percentile (higher = safer)",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6683,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_industry_percentile_score_float_5",
+        "description":"The 0\u2013100 scaled percentile rank (higher = safer) versus peers in the same region and industry",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.668,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_news_component_score",
+        "description":"Global 1\u2013100 rank of a company\u2019s credit riskiness based on textual data in Reuters news articles from the StarMine Text Mining Credit Risk Model; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.5814,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_news_component_score_float_2",
+        "description":"Float-scaled (0\u2013100) News-based credit risk component score from the StarMine Text Mining Credit Risk Model using Reuters news articles; higher values indicate lower credit risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.5814,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_news_component_score_float_5",
+        "description":"News component score scaled 0\u2013100 reflecting credit tone\/signal from news; higher = safer\/more positive",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.5812,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_region_percentile_score",
+        "description":"1\u2013100 percentile rank of the company\u2019s 1-year default probability among firms in the same region; higher scores indicate lower default risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_region_percentile_score_float_2",
+        "description":"Regional peer-relative safety rank expressed as a 0\u2013100 percentile (higher = safer)",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_region_percentile_score_float_5",
+        "description":"The 0\u2013100 scaled regional percentile rank (higher = safer) of the company\u2019s 1-year default probability",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"credit_risk_sector_percentile_score_2",
+        "description":"1\u2013100 percentile rank of the company\u2019s 1-year default probability among firms in the same region and TRBC Economic Sector; higher scores indicate lower default risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6686,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"default_probability_percent",
+        "description":"Probability of default over the next 1-year period, expressed as a decimal fraction (e.g., 0.005)",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":2,
+        "alphaCount":2,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"external_event_language_score",
+        "description":"Global 1\u2013100 rank based on language about market conditions or third parties materially impacting the company; higher scores indicate lower credit risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"legal_obligation_language_score",
+        "description":"Global 1\u2013100 rank based on language regarding the company\u2019s agreements with partners or financiers; higher scores indicate lower credit risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_country_rank",
+        "description":"The 1-100 percentile rank, by country, of a company\u2019s 1-year default probability; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_external",
+        "description":"Global 1\u2013100 rank based on language about market conditions or third parties affecting the company; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6682,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_global_rank",
+        "description":"The global 1-100 percentile rank of a company\u2019s 1-year default probability; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_income",
+        "description":"The global 1-100 rank based on language related to the company\u2019s earnings and profitability; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_industry_rank",
+        "description":"The 1-100 percentile rank, among firms in the same region and TRBC Industry Group, of a company\u2019s 1-year default probability; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.668,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_legal",
+        "description":"Global 1\u2013100 rank based on language regarding the company\u2019s agreements with partners or financers; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_news",
+        "description":"The global 1-100 rank of a company's credit riskiness based on textual data in Reuters news articles; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.5812,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_pd_pct",
+        "description":"The decimal probability that the company will default over the next 1 year (higher = higher risk)",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_region_rank",
+        "description":"The 1-100 percentile rank, among firms in the same region, of a company\u2019s 1-year default probability; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_sector_rank",
+        "description":"Percentile rank (1\u2013100) of the company\u2019s 1-year default probability relative to peers in the same region and TRBC Economic Sector from the StarMine Text Mining Credit Risk model; higher values indicate safer credit (lower PD)",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6684,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_structural",
+        "description":"Global 1\u2013100 rank based on language related to how the company structures its debt, stock, and accounts; higher scores indicate lower risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6685,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t12m_brc",
+        "description":"The number of broker research documents within the trailing 12 months",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t12m_filings_count",
+        "description":"The number of regulatory filing documents within the trailing 12 months",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t12m_news_count",
+        "description":"The number of news documents within the trailing 12 months",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t12m_tr_cnt",
+        "description":"The number of transcript documents within the trailing 12 months",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t1m_brc",
+        "description":"The number of broker research documents within the trailing 1 month",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t1m_filings_count",
+        "description":"The number of filing documents within the trailing 1 month",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t1m_news_count",
+        "description":"The number of news documents within the trailing 1 month",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mdl37_t1m_tr_cnt",
+        "description":"The number of transcript documents within the trailing 1 month",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6688,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"profitability_language_score",
+        "description":"Global 1\u2013100 rank based on language related to the company\u2019s earnings and profitability; higher scores indicate lower credit risk",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6687,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"recent_broker_research_document_count",
+        "description":"The number of broker research documents within the trailing 30 days before the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"recent_filings_document_count",
+        "description":"Number of filing documents within the 30 days prior to the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"recent_news_document_count",
+        "description":"Number of news documents within the 30 days prior to the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"recent_transcript_document_count",
+        "description":"Number of earnings call transcript documents in the trailing 30 days before the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"yearly_broker_research_document_count",
+        "description":"Number of broker research documents within the 12 months prior to the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"yearly_filings_document_count",
+        "description":"Number of filing documents within the 12 months prior to the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"yearly_news_document_count",
+        "description":"The number of news documents within the trailing 12 months before the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"yearly_transcript_document_count",
+        "description":"Number of transcript documents within the trailing 12 months before the Data-Through Date",
+        "dataset":{
+            "id":"model37",
+            "name":"Text Mining Data"
+        },
+        "category":{
+            "id":"model",
+            "name":"Model"
+        },
+        "subcategory":{
+            "id":"model-nlp-models",
+            "name":"NLP Models"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.669,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.6,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"dilution_adjustment_ratio_5",
+        "description":"Adjustment factor used to scale shares or per-share values for dilution under the applicable regime",
+        "dataset":{
+            "id":"analyst_base_ref",
+            "name":"Analyst Estimates Base Reference"
+        },
+        "category":{
+            "id":"analyst",
+            "name":"Analyst"
+        },
+        "subcategory":{
+            "id":"analyst-analyst-estimates",
+            "name":"Analyst Estimates"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.8232,
+        "userCount":1,
+        "alphaCount":1,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"dilution_adjustment_ratio_6",
+        "description":"Dilution adjustment factor applied to convert between basic and diluted per-share metrics",
+        "dataset":{
+            "id":"analyst_base_ref",
+            "name":"Analyst Estimates Base Reference"
+        },
+        "category":{
+            "id":"analyst",
+            "name":"Analyst"
+        },
+        "subcategory":{
+            "id":"analyst-analyst-estimates",
+            "name":"Analyst Estimates"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9376,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"last_close_price_5",
+        "description":"Point-in-time corporate-action-adjusted price of the security used for analytics and per-share calculations",
+        "dataset":{
+            "id":"analyst_base_ref",
+            "name":"Analyst Estimates Base Reference"
+        },
+        "category":{
+            "id":"analyst",
+            "name":"Analyst"
+        },
+        "subcategory":{
+            "id":"analyst-analyst-estimates",
+            "name":"Analyst Estimates"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.8232,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"last_close_price_6",
+        "description":"Point-in-time corporate action\u2013adjusted price used for ratios and analytics (not a full historical price series)",
+        "dataset":{
+            "id":"analyst_base_ref",
+            "name":"Analyst Estimates Base Reference"
+        },
+        "category":{
+            "id":"analyst",
+            "name":"Analyst"
+        },
+        "subcategory":{
+            "id":"analyst-analyst-estimates",
+            "name":"Analyst Estimates"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9371,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"split_adjustment_factor_3",
+        "description":"Split adjustment ratio effective on splDate",
+        "dataset":{
+            "id":"analyst_base_ref",
+            "name":"Analyst Estimates Base Reference"
+        },
+        "category":{
+            "id":"analyst",
+            "name":"Analyst"
+        },
+        "subcategory":{
+            "id":"analyst-analyst-estimates",
+            "name":"Analyst Estimates"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.6662,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"total_shares_issued_5",
+        "description":"Point-in-time number of shares outstanding, without forward\/backfill adjustments",
+        "dataset":{
+            "id":"analyst_base_ref",
+            "name":"Analyst Estimates Base Reference"
+        },
+        "category":{
+            "id":"analyst",
+            "name":"Analyst"
+        },
+        "subcategory":{
+            "id":"analyst-analyst-estimates",
+            "name":"Analyst Estimates"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.8232,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"total_shares_issued_6",
+        "description":"Point-in-time shares outstanding with no forward\/backfill adjustments",
+        "dataset":{
+            "id":"analyst_base_ref",
+            "name":"Analyst Estimates Base Reference"
+        },
+        "category":{
+            "id":"analyst",
+            "name":"Analyst"
+        },
+        "subcategory":{
+            "id":"analyst-analyst-estimates",
+            "name":"Analyst Estimates"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"MATRIX",
+        "dateCoverage":0.9507,
+        "coverage":0.9367,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2026-03-01"
+    },
+    {
+        "id":"longform_market_impact_indicator",
+        "description":"Market-moving potential indicator for longform news stories.",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"market_impact_indicator",
+        "description":"Indicator of the news story's potential to move markets.",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_action",
+        "description":"News action",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_analytics_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.933,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_analytics_time",
+        "description":"News time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.933,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.938,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_tc_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_tc_time",
+        "description":"News time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_headlinetones_time",
+        "description":"News time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.938,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_negative_freq",
+        "description":"Negative frequency",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.938,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_negative_score",
+        "description":"Negative score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.938,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_positive_freq",
+        "description":"Positive frequency",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.938,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_positive_score",
+        "description":"Positive score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.938,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_previous",
+        "description":"Previous news",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.933,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_related_num",
+        "description":"Number of stocks related to or affected by the news",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_relevances",
+        "description":"Degree of relevance the news is to the corresponding stock",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_score",
+        "description":"News score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.933,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_sg_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_sg_negative_freq",
+        "description":"Negative frequency",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_sg_negative_score",
+        "description":"Negative score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_sg_positive_freq",
+        "description":"Positive frequency",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_sg_positive_score",
+        "description":"Positive score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_sg_time",
+        "description":"News time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_sg_tone_score",
+        "description":"Tone score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_storyanalytics_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.8583,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_storyanalytics_score",
+        "description":"News score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.8583,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_storyanalytics_time",
+        "description":"News time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.8583,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_storyanalytics_type",
+        "description":"News type",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.8583,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_storyanalytics_value",
+        "description":"News value",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.8583,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_negative_freq",
+        "description":"Negative frequency",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_negative_score",
+        "description":"Negative score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_positive_freq",
+        "description":"Positive frequency",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_positive_score",
+        "description":"Positive score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tc_tone_score",
+        "description":"Tone score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_time",
+        "description":"News time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_tone_score",
+        "description":"Tone score",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.938,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_type",
+        "description":"News type",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.933,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_action",
+        "description":"News action",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9379,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9379,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_hotlevel",
+        "description":"News hotlevel (all 0)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9379,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_long_action",
+        "description":"News action",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_long_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_long_related_num",
+        "description":"Number of stocks related to or affected by the news",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_long_relevances",
+        "description":"Degree of relevance the news is to the corresponding stock",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_long_time",
+        "description":"News time",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_long_version",
+        "description":"News version",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_new_action",
+        "description":"News action",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_new_entitlement",
+        "description":"News entitlement ID (EID)",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    },
+    {
+        "id":"mws38_uniq_new_related_num",
+        "description":"Number of stocks related to or affected by the news",
+        "dataset":{
+            "id":"news38",
+            "name":"News Analytic Model Data"
+        },
+        "category":{
+            "id":"news",
+            "name":"News"
+        },
+        "subcategory":{
+            "id":"news-news",
+            "name":"News"
+        },
+        "region":"CHN",
+        "delay":1,
+        "universe":"TOP2000U",
+        "type":"VECTOR",
+        "dateCoverage":1.0,
+        "coverage":0.9382,
+        "userCount":0,
+        "alphaCount":0,
+        "pyramidMultiplier":1.7,
+        "themes":[
+
+        ],
+        "dateCreated":"2025-11-01"
+    }
+]

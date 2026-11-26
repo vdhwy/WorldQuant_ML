@@ -1,0 +1,7 @@
+a = rank({ts_op}({matrix_field}, {lookback})); 
+trade_when(rank({ts_op}({matrix_field}, {lookback})) > rank({matrix_field}), a, -1)
+rank({ts_op}({vec_op}({vector_field}), {lookback}))
+
+
+rank({ts_op}({vec_op}({vector_field}), {lookback}))
+vector_neut(ts_zscore({matrix_field}, {lookback}), {risk_matrix})  

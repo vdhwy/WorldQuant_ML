@@ -1,0 +1,60 @@
+2026-06-13 14:20:33,260 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=search_interest
+2026-06-13 14:20:41,669 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst72
+2026-06-13 14:20:43,076 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=fundamental1
+2026-06-13 14:20:55,793 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=other545
+2026-06-13 14:20:57,207 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=other436
+2026-06-13 14:20:58,519 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=other315
+2026-06-13 14:20:59,797 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news73
+2026-06-13 14:21:11,543 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=fundamental21
+2026-06-13 14:21:13,273 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=model170
+2026-06-13 14:21:21,524 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=sentiment26
+2026-06-13 14:21:27,281 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=pv70
+2026-06-13 14:21:33,598 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=other553
+2026-06-13 14:21:45,323 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=model68
+2026-06-13 14:21:46,659 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=model207
+2026-06-13 14:21:48,031 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news23
+2026-06-13 14:21:56,347 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=fundamental22
+2026-06-13 14:22:06,148 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst16
+2026-06-13 14:22:13,451 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst45
+2026-06-13 14:22:18,787 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news50
+2026-06-13 14:22:20,154 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news48
+2026-06-13 14:22:21,573 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news36
+2026-06-13 14:22:22,933 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news29
+2026-06-13 14:22:27,042 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=model216
+2026-06-13 14:22:40,691 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news59
+2026-06-13 14:22:50,213 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst48
+2026-06-13 14:23:15,206 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=model135
+2026-06-13 14:23:27,179 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=model138
+2026-06-13 14:23:32,054 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=model243
+2026-06-13 14:23:40,434 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=earnings6
+2026-06-13 14:24:02,982 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news38
+2026-06-13 14:24:04,288 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news17
+2026-06-13 14:24:06,442 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news20
+2026-06-13 14:24:07,973 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news54
+2026-06-13 14:24:13,679 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news31
+2026-06-13 14:25:51,039 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=risk60
+2026-06-13 14:25:52,326 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=risk59
+2026-06-13 14:27:15,473 - ace - WARNING - No fields found: region=ASI, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=news18
+2026-06-17 21:23:00,324 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst84
+2026-06-17 21:23:00,324 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst84
+2026-06-17 21:23:10,650 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst44
+2026-06-17 21:23:10,650 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst44
+2026-06-17 21:23:11,697 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst48
+2026-06-17 21:23:11,697 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst48
+2026-06-17 21:23:35,031 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst45
+2026-06-17 21:23:35,031 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst45
+2026-06-17 23:13:07,272 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst84
+2026-06-17 23:13:27,241 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst44
+2026-06-17 23:13:28,069 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst48
+2026-06-17 23:13:54,283 - ace - WARNING - No fields found: region=EUR, delay=1, universe=ILLIQUID_MINVOL1M, type=MATRIX, dataset.id=analyst45
+2026-06-18 11:13:55,818 - ace - WARNING - No fields found: region=ASI, delay=1, universe=TOP500, type=MATRIX, dataset.id=model170
+2026-06-18 11:13:57,079 - ace - WARNING - No fields found: region=ASI, delay=1, universe=TOP500, type=MATRIX, dataset.id=model68
+2026-06-18 11:13:58,143 - ace - WARNING - No fields found: region=ASI, delay=1, universe=TOP500, type=MATRIX, dataset.id=model207
+2026-06-18 11:14:26,439 - ace - WARNING - No fields found: region=ASI, delay=1, universe=TOP500, type=MATRIX, dataset.id=model135
+2026-06-18 11:14:27,517 - ace - WARNING - No fields found: region=ASI, delay=1, universe=TOP500, type=MATRIX, dataset.id=model138
+2026-08-22 17:32:17,050 - ace - INFO - Getting fields for: region=EUR, delay=1, universe=TOP2500
+2026-08-22 17:41:32,893 - ace - INFO - Getting fields for: region=EUR, delay=1, universe=TOP2500
+2026-08-26 16:33:54,518 - ace - ERROR - Simulation sim-err failed: Simulation ERROR: compile failed at property='regular' line=1 start=None end=None (simulation id: sim-err)
+2026-08-26 16:34:04,055 - ace - ERROR - Simulation sim-err failed: Simulation ERROR: compile failed at property='regular' line=1 start=None end=None (simulation id: sim-err)
+2026-08-26 16:34:45,808 - ace - ERROR - Simulation sim-err failed: Simulation ERROR: compile failed at property='regular' line=1 start=None end=None (simulation id: sim-err)
+2026-08-26 16:36:19,518 - ace - ERROR - Simulation sim-err failed: Simulation ERROR: compile failed at property='regular' line=1 start=None end=None (simulation id: sim-err)

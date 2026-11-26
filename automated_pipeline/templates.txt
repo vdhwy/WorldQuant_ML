@@ -1,0 +1,22 @@
+# Custom Expression Templates for automated pipeline
+# Lines starting with '#' are ignored.
+#
+# Available placeholders:
+#   {ts_op}         Time-Series operators
+#   {vec_op}        Vector operators
+#   {field}         All datafields
+#   {vector_field}  VECTOR-type datafields
+#   {matrix_field}  MATRIX-type datafields
+#   {risk_matrix}   Risk MATRIX-type datafields
+#   {pos}           Positive-sentiment fields
+#   {neg}           Negative-sentiment fields
+#   {lookback}      Lookback windows from config
+#
+# Add your templates below (one per line):
+
+# multiply + group_rank + ts_backfill pattern (two independent field slots)
+multiply(ts_backfill({matrix_field}, {lookback}), group_rank(multiply(rank(ts_backfill({matrix_field}, {lookback})), group_rank(ts_backfill({matrix_field}, {lookback}), subindustry)), industry))
+
+rank(zscore(ts_rank(multiply(ts_backfill({matrix_field}, {lookback}), ts_backfill({field}, {lookback})), {lookback}), {lookback}))
+
+rank(ts_backfill({matrix_field}, {lookback}))

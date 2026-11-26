@@ -1,0 +1,6698 @@
+[
+  {
+    "id": "oth395_asset_41_11",
+    "description": "Current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2791,
+    "userCount": 3,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_41_12",
+    "description": "Current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2791,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_41_13",
+    "description": "Current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2656,
+    "userCount": 4,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_41_21",
+    "description": "Current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2794,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_41_22",
+    "description": "Current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2794,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_41_23",
+    "description": "Current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2653,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_41_31",
+    "description": "Current Asset Accruals / Sales",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2897,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_42_11",
+    "description": "Current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2519,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_42_12",
+    "description": "Current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2519,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_42_21",
+    "description": "Current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.252,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_42_22",
+    "description": "Current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.252,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_42_31",
+    "description": "Current Asset Accruals / Sales",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.262,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_43_11",
+    "description": "Current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2656,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_43_12",
+    "description": "Current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2656,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_43_13",
+    "description": "Current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2529,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_43_21",
+    "description": "Current Asset Accruals /  Current Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2656,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_43_22",
+    "description": "Current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2655,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_43_23",
+    "description": "Current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2523,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_43_31",
+    "description": "Current Asset Accruals / Sales",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2749,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_51_11",
+    "description": "Non-current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2856,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_51_12",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2856,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_51_13",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2717,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_51_21",
+    "description": "Non-current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2856,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_51_22",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2857,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_51_23",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2709,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_51_31",
+    "description": "Non-current Asset Accruals / Sales",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2958,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_53_11",
+    "description": "Non-current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2856,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_53_12",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2856,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_53_13",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2717,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_53_21",
+    "description": "Non-current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2856,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_53_22",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2857,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_53_23",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2709,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_53_31",
+    "description": "Non-current Asset Accruals / Sales",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2958,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_56_13",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2509,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_58_11",
+    "description": "Non-current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2775,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_58_12",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2775,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_58_13",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2642,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_58_21",
+    "description": "Non-current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2776,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_58_22",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2776,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_58_23",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2635,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_58_31",
+    "description": "Non-current Asset Accruals / Sales",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2887,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_64_11",
+    "description": "Financial Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2946,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_64_12",
+    "description": "Financial Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2945,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_64_13",
+    "description": "Financial Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.281,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_64_21",
+    "description": "Financial Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2501,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_64_31",
+    "description": "Financial Asset Accruals / Sales",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.3046,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_asset_d1_asset_change",
+    "description": "Ratio of the latest asset over asset_ltm",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.3517,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_best11_d1_accum_4q",
+    "description": "Accumulated sum of accruals ratio over the last 4 quarters",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2999,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_best11_d1_current_t",
+    "description": "Current t-statistics of Accruals Ratio, Calculated as Current-t = (Current Accruals Ratio - Mean) / Std",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.2906,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "oth395_best11_d1_dts",
+    "description": "Standard deviation of accruals ratio over history",
+    "dataset": {
+      "id": "other395",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.3316,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-09-01"
+  },
+  {
+    "id": "fnd89_asset_41_11",
+    "description": "Current asset accruals divided by total assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3181,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_41_12",
+    "description": "Current asset accruals divided by time-series average total assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3181,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_41_13",
+    "description": "Current asset accruals divided by time-series average total assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.313,
+    "userCount": 5,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_41_21",
+    "description": "Current asset accruals divided by current assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3181,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_41_22",
+    "description": "Current asset accruals divided by time-series average current assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3181,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_41_23",
+    "description": "Current asset accruals divided by time-series average current assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3131,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_41_31",
+    "description": "Current asset accruals divided by sales",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3135,
+    "userCount": 2,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_42_11",
+    "description": "Current asset accruals divided by total assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.1685,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_42_12",
+    "description": "Current asset accruals divided by time-series average total assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.1685,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_42_13",
+    "description": "Current asset accruals divided by time-series average total assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.1651,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_42_21",
+    "description": "Current asset accruals divided by current assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.1685,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_42_22",
+    "description": "Current asset accruals divided by time-series average current assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.1685,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_42_23",
+    "description": "Current asset accruals divided by time-series average current assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.1654,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_42_31",
+    "description": "Current asset accruals divided by sales",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.1654,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_43_11",
+    "description": "Current asset accruals divided by total assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3225,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_43_12",
+    "description": "Current asset accruals divided by time-series average total assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3225,
+    "userCount": 2,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_43_13",
+    "description": "Current asset accruals divided by time-series average total assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3177,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_43_21",
+    "description": "Current asset accruals divided by current assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3222,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_43_22",
+    "description": "Current asset accruals divided by time-series average current assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3222,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_43_23",
+    "description": "Current asset accruals divided by time-series average current assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3171,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_43_31",
+    "description": "Current asset accruals divided by sales",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3181,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_51_11",
+    "description": "Non-current asset accruals divided by total assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3367,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_51_12",
+    "description": "Non-current asset accruals divided by time-series average total assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3368,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_51_13",
+    "description": "Non-current asset accruals divided by time-series average total assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3315,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_51_21",
+    "description": "Non-current asset accruals divided by current assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3368,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_51_22",
+    "description": "Non-current asset accruals divided by time-series average current assets (method 1)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3368,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_51_23",
+    "description": "Non-current asset accruals divided by time-series average current assets (method 2)",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.331,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_51_31",
+    "description": "Non-current asset accruals divided by sales",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.332,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_52_11",
+    "description": "Non-current asset accruals divided by total assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2917,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_52_12",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2918,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_52_13",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2875,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_52_21",
+    "description": "Non-current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2918,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_52_22",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2918,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_52_23",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.287,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_52_31",
+    "description": "Non-current Asset Accruals / Sales",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2878,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_53_11",
+    "description": "Non-current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3367,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "fnd89_asset_53_12",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3368,
+    "userCount": 2,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_53_13",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3315,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_53_21",
+    "description": "Non-current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3368,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_53_22",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3368,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "fnd89_asset_53_23",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.331,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "fnd89_asset_53_31",
+    "description": "Non-current Asset Accruals / Sales",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.332,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "fnd89_asset_54_11",
+    "description": "Non-current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3277,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_54_12",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 1",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3277,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_54_13",
+    "description": "Non-current Asset Accruals / Time Series Average Total Assets 2",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3229,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_54_21",
+    "description": "Non-current Asset Accruals / Current Assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3277,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_54_22",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 1",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3277,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_54_23",
+    "description": "Non-current Asset Accruals / Time Series Average Current Assets 2",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3224,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_54_31",
+    "description": "Non-current Asset Accruals / Sales",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3234,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "fnd89_asset_55_11",
+    "description": "Non-current Asset Accruals / Total Assets",
+    "dataset": {
+      "id": "fundamental89",
+      "name": "Accrual based Earnings Model"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.3287,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2025-10-01"
+  },
+  {
+    "id": "anl11_1e",
+    "description": "Aggregate score for Pollution Prevention & Environmental Remediation for the company",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.906,
+    "userCount": 69,
+    "alphaCount": 117,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_1g",
+    "description": "Aggregate key performance indicator for board independence, diversity, and effectiveness",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9005,
+    "userCount": 28,
+    "alphaCount": 35,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_1pme",
+    "description": "Aggregate key performance indicator measuring company’s Compensation and Employee Satisfaction",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8921,
+    "userCount": 33,
+    "alphaCount": 34,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_1tic",
+    "description": "Aggregate key performance indicator for Community Engagement and Charitable Activities",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9037,
+    "userCount": 27,
+    "alphaCount": 32,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_2_1e",
+    "description": "Aggregate KPI for pollution prevention & environmental remediation",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8073,
+    "userCount": 8,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_2_1g",
+    "description": "Aggregate KPI for Board Independence, Diversity, & Effectiveness",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8031,
+    "userCount": 3,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_2_1pme",
+    "description": "Aggregate KPI for Compensation & Employee Satisfaction",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.7923,
+    "userCount": 6,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_1tic",
+    "description": "Aggregate KPI for Community Engagement & Charitable Activities",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8097,
+    "userCount": 5,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_2e",
+    "description": "Aggregate KPI for Anti-Pollution Policies & Environmental Transparency",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8054,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_2_2g",
+    "description": "Aggregate KPI for Management Standards & Ethics",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8172,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_2pme",
+    "description": "Aggregate KPI for employee diversity treatment & labor rights",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8002,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_2_2tic",
+    "description": "Aggregate KPI for Human Rights Activism, Supply Chain, Labor & Human Rights Policies",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8025,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_3e",
+    "description": "Aggregate KPI for Energy & Resource Efficiency",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8161,
+    "userCount": 1,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_3g",
+    "description": "Aggregate KPI for Disclosure, Transparency, & Stakeholder Accountability",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8159,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_3pme",
+    "description": "Aggregate KPI for Employee Continuing Education, Training, Work Conditions, Safety & Health",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.7975,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_2_3tic",
+    "description": "Aggregate KPI for Business Model & Products",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.7838,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_e",
+    "description": "The E Score averages the E1, E2, and E3 scores.",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8205,
+    "userCount": 4,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_g",
+    "description": "The G Score averages the G1, G2, and G3 scores.",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8201,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_gse",
+    "description": "The ESG Score averages the E, S, and G scores.",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8235,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2_pme",
+    "description": "The EMP score averages the three EMP scores.",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8104,
+    "userCount": 9,
+    "alphaCount": 10,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_2_region",
+    "description": "Region of the world in which the company is headquartered",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8235,
+    "userCount": 25,
+    "alphaCount": 28,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_2_tic",
+    "description": "The CIT Score averages the CIT1, CIT2, and CIT3 scores.",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 1.0,
+    "coverage": 0.8182,
+    "userCount": 5,
+    "alphaCount": 6,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_2e",
+    "description": "Aggregate score for Anti-Pollution Policies & Environmental Transparency for the company",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9059,
+    "userCount": 17,
+    "alphaCount": 38,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_2g",
+    "description": "Aggregate key performance indicator for management standards and ethics",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9056,
+    "userCount": 18,
+    "alphaCount": 19,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_2pme",
+    "description": "Aggregate key performance indicator for Employee Diversity Treatment and Labor Rights",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8985,
+    "userCount": 14,
+    "alphaCount": 15,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_2tic",
+    "description": "Aggregate KPI for Human Rights Activism, Supply Chain, Labor & Human Rights Policies",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9024,
+    "userCount": 14,
+    "alphaCount": 15,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2021-11-01"
+  },
+  {
+    "id": "anl11_3e",
+    "description": "Aggregate score for Energy & Resource Efficiency for the company",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.906,
+    "userCount": 20,
+    "alphaCount": 21,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_3g",
+    "description": "Aggregate key performance indicator for disclosure, transparency, and stakeholder accountability",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9043,
+    "userCount": 20,
+    "alphaCount": 21,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_3pme",
+    "description": "Aggregate key performance indicator for Employee Continuing Education, Training, Work Conditions, Safety & Health",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8975,
+    "userCount": 25,
+    "alphaCount": 30,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_3tic",
+    "description": "Aggregate key performance indicator measuring Business Model & Products under the Citizenship pillar",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8986,
+    "userCount": 21,
+    "alphaCount": 22,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "anl11_cit1reg_industryperc",
+    "description": "Percentile within industry for CIT1 (Community Engagement & Charitable Activities), 100% as best",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8852,
+    "userCount": 15,
+    "alphaCount": 16,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit1reg_industryrnk",
+    "description": "Rank within industry for CIT1 (Community Engagement & Charitable Activities), 1 being highest",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9037,
+    "userCount": 22,
+    "alphaCount": 23,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit1regsubsecperc",
+    "description": "Percentile within subsector for CIT1 (Community Engagement & Charitable Activities), 100% as best",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8852,
+    "userCount": 12,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit1regsubsecrnk",
+    "description": "Rank within subsector for CIT1 (Community Engagement & Charitable Activities), 1 being highest",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9037,
+    "userCount": 14,
+    "alphaCount": 18,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit2reg_industryperc",
+    "description": "Percentile position of a company within its industry peer group for the CIT2 KPI, with 100% being the best",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8841,
+    "userCount": 10,
+    "alphaCount": 11,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit2reg_industryrnk",
+    "description": "Rank of a company within its industry peer group for the CIT2 KPI, with 1 being the highest rank",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9025,
+    "userCount": 10,
+    "alphaCount": 11,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit2regsubsecperc",
+    "description": "Percentile of CIT2 KPI within the region-subsector peer group, with 100% being the highest (best)",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8841,
+    "userCount": 11,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit2regsubsecrnk",
+    "description": "Rank of CIT2 KPI within the region-subsector peer group, with 1 being the highest (best)",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.9025,
+    "userCount": 9,
+    "alphaCount": 10,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit3reg_industryperc",
+    "description": "Percentile of a company's CIT3 score within its region-industry peer group, with 100% being the best",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8812,
+    "userCount": 11,
+    "alphaCount": 12,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit3reg_industryrnk",
+    "description": "Rank of a company's CIT3 score within its region-industry peer group, with 1 being the highest",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8986,
+    "userCount": 13,
+    "alphaCount": 14,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit3regsubsecperc",
+    "description": "Percentile of CIT3 KPI within the region-subsector peer group, with 100% being the highest (best)",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8812,
+    "userCount": 13,
+    "alphaCount": 14,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit3regsubsecrnk",
+    "description": "Rank of a company's CIT3 score within its region-subsector peer group, with 1 being the highest",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8986,
+    "userCount": 11,
+    "alphaCount": 12,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit_totalcor",
+    "description": "Hybrid score for Capital Investment pillar, weighting CIT1, CIT2, and CIT3 based on strong positive rank correlations to financial metrics related to total returns for the company’s peer group",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8211,
+    "userCount": 14,
+    "alphaCount": 16,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit_totalcorregsectperc",
+    "description": "The percentile of the company within its sector on the Citizenship (CIT) Hybrid Score, with 100% being best among sector peers",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.817,
+    "userCount": 14,
+    "alphaCount": 15,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit_totalcorregsectrnk",
+    "description": "The rank of the company within its sector based on the Citizenship (CIT) Hybrid Score, where 1 is the highest rank among sector peers",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8211,
+    "userCount": 11,
+    "alphaCount": 12,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit_totalcorregsubsecperc",
+    "description": "The percentile of the company within its subsector on the Citizenship (CIT) Hybrid Score, with 100% being best among subsector peers",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.817,
+    "userCount": 17,
+    "alphaCount": 18,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit_totalcorregsubsecrnk",
+    "description": "The rank of the company within its subsector based on the Citizenship (CIT) Hybrid Score, where 1 is the highest rank among subsector peers",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8211,
+    "userCount": 11,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit_ttcrg_industryperc",
+    "description": "The percentile of the company within its industry on the Citizenship (CIT) Hybrid Score, with 100% indicating top performance among peers",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.817,
+    "userCount": 11,
+    "alphaCount": 12,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_cit_ttcrg_industryrnk",
+    "description": "The rank of the company within its industry on the Citizenship (CIT) Hybrid Score, where 1 is the highest rank among industry peers",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8211,
+    "userCount": 11,
+    "alphaCount": 12,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "anl11_citposcorreg_industryperc",
+    "description": "The percentile of the company within its industry on the Citizenship (CIT) Max Correlation Score, with 100% being best among peers",
+    "dataset": {
+      "id": "analyst11",
+      "name": "ESG scores"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-esg",
+      "name": "ESG"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "MATRIX",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7952,
+    "userCount": 10,
+    "alphaCount": 11,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-05-01"
+  },
+  {
+    "id": "event_effect_magnitude",
+    "description": "Planned impact magnitude on affected entities; not yet populated (<0.1 minor, 0.1–0.9 moderate, >0.9 high)",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 0,
+    "alphaCount": 0,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "mws36_key_event_confidence",
+    "description": "Confidence score of the key event classification for this story",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 7,
+    "alphaCount": 8,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_novelty",
+    "description": "Novelty score within subscribed content sets (100 novel, 50 partially novel, 0 not novel)",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 13,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_novelty_newest_span",
+    "description": "Milliseconds between this story and the most recent older similar story; empty if first",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 7,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_novelty_oldest_span",
+    "description": "Milliseconds between this story and the oldest known similar story starting the novelty sequence; empty if first",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 5,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_relevance",
+    "description": "Overall relevance score of the news story to the referenced entity/entities, on a 0–100 scale where higher means more relevant (e.g., ~100 highly relevant, ~10 marginal)",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 7,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_sentiment_negative_confidence",
+    "description": "Confidence score that the story is negative; higher means more confident negative classification",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 5,
+    "alphaCount": 8,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_sentiment_phrase_negative",
+    "description": "Count of negative sentiment phrases detected by the bigram classifier",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 16,
+    "alphaCount": 20,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_sentiment_phrase_positive",
+    "description": "Count of positive sentiment phrases detected by the bigram classifier",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 7,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_sentiment_positive_confidence",
+    "description": "Confidence score that the story is positive; higher means more confident positive classification",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 9,
+    "alphaCount": 12,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_sentiment_words_negative",
+    "description": "Count of negative sentiment tokens detected by the unigram classifier",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 6,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_sentiment_words_positive",
+    "description": "Count of positive sentiment tokens detected by the unigram classifier",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 11,
+    "alphaCount": 11,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_timestamp_time",
+    "description": "Time component of the story’s publication timestamp as an integer (e.g., HHMMSS or milliseconds)",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 7,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_title",
+    "description": "The article title text",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 7,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mws36_total_words",
+    "description": "Total tokens examined by the unigram classifier",
+    "dataset": {
+      "id": "news36",
+      "name": "News Analytics Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news-sentiment",
+      "name": "News Sentiment"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.7713,
+    "userCount": 7,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "anl84_lst_trgt_price",
+    "description": "Target price from the prior differing recommendation by the same author on the same security",
+    "dataset": {
+      "id": "analyst84",
+      "name": "Market Abuse Regulations Data"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-analyst-estimates",
+      "name": "Analyst Estimates"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.7744,
+    "coverage": 0.3565,
+    "userCount": 4,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "anl84_lst_validity_number",
+    "description": "Numeric magnitude of the validity period for the last recommendation",
+    "dataset": {
+      "id": "analyst84",
+      "name": "Market Abuse Regulations Data"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-analyst-estimates",
+      "name": "Analyst Estimates"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.7744,
+    "coverage": 0.3565,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "anl84_trgt_price",
+    "description": "Per share/unit target price for the recommendation in the currency specified by currency_code",
+    "dataset": {
+      "id": "analyst84",
+      "name": "Market Abuse Regulations Data"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-analyst-estimates",
+      "name": "Analyst Estimates"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.7744,
+    "coverage": 0.3565,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "anl84_validity_number",
+    "description": "Numeric magnitude of the recommendation’s validity period that pairs with validity_unit",
+    "dataset": {
+      "id": "analyst84",
+      "name": "Market Abuse Regulations Data"
+    },
+    "category": {
+      "id": "analyst",
+      "name": "Analyst"
+    },
+    "subcategory": {
+      "id": "analyst-analyst-estimates",
+      "name": "Analyst Estimates"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.7744,
+    "coverage": 0.3565,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-12-01"
+  },
+  {
+    "id": "nws104_1_confidence",
+    "description": "The probability of the trinary sentiment score (above) matching a known sentiment state alone: 0.000 = zero probability, 1.000 is absolute probability.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_headlineonly",
+    "description": "Identifies if the item is headline only or if there is a body as well. \"T\" = true, for headline only, \"F\" = false, indicating there is a body to the story.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.67,
+    "userCount": 2,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_marketimpactscore",
+    "description": "The estimated risk-adjusted 1 minute forward return for a given article as measured by stock return minus the stock beta multiplied market return, -5 being most negative impact and +5 most positive.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_novelty",
+    "description": "Identifies new stories: 1 = new story, 2 or greater means the item is linked to a previous story that was published within the last 24 hours.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_prob_neg",
+    "description": "Sentiment probability: The raw probability that the article sentiment is negative expressed as a decimal with all three probabilities summing to 1.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 6,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_prob_ntr",
+    "description": "Sentiment probability: The raw probability that the article sentiment is neutral expressed as a decimal with all three probabilities summing to 1.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_prob_pos",
+    "description": "Sentiment probability: The raw probability that the article sentiment is positive expressed as a decimal with all three probabilities summing to 1.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 1,
+    "alphaCount": 1,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_relevance",
+    "description": "Weighting of the sentiment to the company in that line of data. Relevance of \"1.00\" = primary relevance, any less indicates the appropriate degree of relevance.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 1,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_sentiment",
+    "description": "Reveals in a trinary score the highest probable state of sentiment found in the news item, 1 = positive, 0 = neutral, and -1 = negative.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.8295,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_1_timestamp",
+    "description": "The publication timestamp of the news item in UTC (Coordinated Universal Time) by default.",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.9463,
+    "userCount": 1,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2024-10-01"
+  },
+  {
+    "id": "nws104_automessage",
+    "description": "Indicates whether the news story was automatically generated as part of a scheduled delivery (e.g., calendar event or systematic feed); 1 or \"T\" is scheduled, 0 or \"F\" is unscheduled",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 2,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_confidence",
+    "description": "Confidence level (0 to 1) that the sentiment score accurately matches the news item’s actual sentiment",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 39,
+    "alphaCount": 52,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_headlineonly",
+    "description": "Flag indicating if the item contains only a headline (1/“T”) or includes full article/text (0/“F”)",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 14,
+    "alphaCount": 22,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_marketimpactscore",
+    "description": "Estimated risk-adjusted 1-minute forward return expected from the news event, roughly ranging from -5 to +5",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 9,
+    "alphaCount": 11,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_novelty",
+    "description": "Indicator of story novelty: 1 = first/new story, >1 = repeat or update linked to previous stories in last 24 hours",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 22,
+    "alphaCount": 107,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_prob_neg",
+    "description": "Model-assigned probability (0 to 1) that the sentiment of the news article is negative; all three probabilities (positive, neutral, negative) sum to 1",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 6,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_prob_ntr",
+    "description": "The raw probability that the news article’s sentiment is classified as neutral, expressed as a decimal (with the probabilities for positive, neutral, and negative sentiment summing to 1)",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 6,
+    "alphaCount": 6,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_prob_pos",
+    "description": "Model-assigned probability (0 to 1) that the sentiment of the news article is positive; all three probabilities (positive, neutral, negative) sum to 1",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 30,
+    "alphaCount": 34,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_relevance",
+    "description": "Degree to which the news item focuses on the target company; 1 = primary, <1 = secondary/side mention",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 9,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_sentiment",
+    "description": "Trinary sentiment classification for the news item: 1 = positive, 0 = neutral, -1 = negative",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 17,
+    "alphaCount": 21,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "nws104_timestamp",
+    "description": "UTC Unix timestamp (seconds since epoch) marking the exact publication time of the news article for point-in-time analysis",
+    "dataset": {
+      "id": "news104",
+      "name": "Archive News Data"
+    },
+    "category": {
+      "id": "news",
+      "name": "News"
+    },
+    "subcategory": {
+      "id": "news-news",
+      "name": "News"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.8503,
+    "userCount": 5,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2025-11-01"
+  },
+  {
+    "id": "fnd25_fiscalyear",
+    "description": "Fiscal year identifier (numeric)",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2463,
+    "userCount": 6,
+    "alphaCount": 6,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "fnd25_interimnumber",
+    "description": "Sequence number within the fiscal year/period (e.g., 1 for Q1)",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2463,
+    "userCount": 5,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "fnd25_metriccode",
+    "description": "Metric code as an integer",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.2997,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "fnd25_metricvalue",
+    "description": "Numeric value of the operating metric",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2463,
+    "userCount": 2,
+    "alphaCount": 2,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "fnd25_periodlength",
+    "description": "Number of months or weeks covered by the reporting period, depending on reporting practices",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2463,
+    "userCount": 7,
+    "alphaCount": 8,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "fnd25_periodtypecode",
+    "description": "Numeric code for reporting frequency; 1=annual, 2=quarterly, 3=semi-annual, 4=trimester",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2463,
+    "userCount": 6,
+    "alphaCount": 6,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "fnd25_statementtypecode",
+    "description": "Code for statement context: 1=Profit & Loss, 3=Balance Sheet",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.2463,
+    "userCount": 4,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "fnd25_updatetype",
+    "description": "Update type provides information on how statements were formulated. Options include: UPD - Update Normal, UCA - Update Calculated, USP - Update Special, RES - Restated Normal, RCA - Restated Calculated, RSP - Restated Special, CLA - Reclassified Normal, CCA - Reclassified Calculated, CSP - Reclassified Special",
+    "dataset": {
+      "id": "fundamental25",
+      "name": "Company Operating Metrics"
+    },
+    "category": {
+      "id": "fundamental",
+      "name": "Fundamental"
+    },
+    "subcategory": {
+      "id": "fundamental-fundamental-data",
+      "name": "Fundamental Data"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 1.0,
+    "coverage": 0.2997,
+    "userCount": 5,
+    "alphaCount": 5,
+    "pyramidMultiplier": 1.1,
+    "themes": [],
+    "dateCreated": "2022-07-01"
+  },
+  {
+    "id": "mdl138_3idpc",
+    "description": "Composite Performance Deviation Index over 3 quarters, aggregating all PDI3 factors using risk parity weighting to reflect overall abnormal absolute deviation across core fundamentals",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 207,
+    "alphaCount": 328,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_3idpqc",
+    "description": "Composite quality-adjusted performance deviation index over 3 trailing quarters, aggregating standardized deviations of multiple financial ratios (QPDI3 factors) across clusters using risk parity weighting",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 107,
+    "alphaCount": 164,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_4idpc",
+    "description": "Composite PDI score aggregated from raw four-quarter PDI factors using risk parity weighting, showing a holistic measure of absolute fundamental deviation",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 280,
+    "alphaCount": 594,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_4idpqc",
+    "description": "Composite quality PDI score over 4 trailing quarters, aggregating all quality-adjusted PDI factors by clustering similar metrics, equal-weighting within clusters and risk parity weighting across clusters, to summarize deviations in quality ratios",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 135,
+    "alphaCount": 271,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_5idpc",
+    "description": "Composite PDI score aggregating all PDI factors over 5 trailing quarters using risk parity weighting; summarizes absolute magnitude of fundamental deviations in accounting variables",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 132,
+    "alphaCount": 201,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_5idpqc",
+    "description": "Composite Quality-adjusted PDI score over 5 trailing quarters, aggregating QPDI5 factors across seven fundamental clusters with risk parity weighting, providing an overall measure of multi-ratio quality deviations from historical baselines",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 173,
+    "alphaCount": 325,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_aor_3idpq",
+    "description": "Quality-adjusted Performance Deviation Index over 3 trailing quarters based on Return on Assets (ROA), measuring deviation of ROA ratio from historical average",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 16,
+    "alphaCount": 20,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_aor_4idpq",
+    "description": "Quality-adjusted Performance Deviation Index over 4 trailing quarters based on Return on Assets (Net Income divided by total assets), showing deviation in asset profitability versus history",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 24,
+    "alphaCount": 29,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_aor_5idpq",
+    "description": "Quality-adjusted Performance Deviation Index over 5 quarters for return on assets, capturing deviations in firm profitability (net income / average assets) compared to historical baseline",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 17,
+    "alphaCount": 17,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_dtl_3idp",
+    "description": "Performance Deviation Index over 3 trailing quarters, measuring deviation of long-term debt from historical levels, providing insight into changes in firm leverage in absolute terms, scaled for firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 45,
+    "alphaCount": 96,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_dtl_4idp",
+    "description": "Performance Deviation Index over 4 trailing quarters measuring deviation of long-term debt from historical norm, likely scaled by firm size (e.g., total assets)",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 27,
+    "alphaCount": 38,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_dtl_5idp",
+    "description": "Performance Deviation Index over 5 trailing quarters, measuring the absolute deviation of a firm's long-term debt from its historical norm, scaled by firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 11,
+    "alphaCount": 11,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_epp_3idp",
+    "description": "3-quarter absolute-level PDI factor measuring deviation in property, plant, and equipment over the last 3 quarters versus historical trend, scaled by firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 6,
+    "alphaCount": 7,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_epp_4idp",
+    "description": "4-quarter absolute-level PDI factor measuring deviation in the amount of property, plant, and equipment (PPE) from its historical trend, typically scaled by total assets for comparability",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 9,
+    "alphaCount": 14,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_epp_5idp",
+    "description": "Performance Deviation Index over trailing 5 quarters based on Property, Plant & Equipment (PPE), likely representing deviation in the carrying value of fixed assets versus historical trend",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 2,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_er_3idp",
+    "description": "Raw Performance Deviation Index over 3 trailing quarters, measuring the deviation in retained earnings from its historical norm, scaled by size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 31,
+    "alphaCount": 54,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_er_4idp",
+    "description": "PDI-4 Factor based on Retained Earnings",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 16,
+    "alphaCount": 17,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_er_5idp",
+    "description": "Performance Deviation Index over trailing 5 quarters for retained earnings (cumulative net earnings retained in equity), measuring deviation from historical average",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 18,
+    "alphaCount": 22,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_in_3idp",
+    "description": "Deviation over the past 3 quarters of the firm's net income (scaled by firm size) from its historical average, capturing recent abnormal earnings changes",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 18,
+    "alphaCount": 26,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_in_4idp",
+    "description": "Performance Deviation Index over 4 trailing quarters based on absolute net income, measuring how much net earnings deviate from the firm's historical average, size-scaled",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 15,
+    "alphaCount": 19,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_in_5idp",
+    "description": "Raw PDI factor over 5 trailing quarters measuring deviation in net income (scaled by firm size) from its long-term average",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_ofc_3idp",
+    "description": "Performance Deviation Index (PDI) over 3 quarters for Cash Flow from Operations (CFO), quantifying how much operational cash flows deviate from historical norms, adjusted for firm scale",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 15,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_ofc_4idp",
+    "description": "Performance Deviation Index (PDI) over 4 quarters for Cash Flow from Operations (CFO), indicating deviations in operating cash flow against baseline historical values, scaled by firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 32,
+    "alphaCount": 72,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_ofc_5idp",
+    "description": "Performance Deviation Index (PDI) over 5 quarters for Cash Flow from Operations (CFO), capturing the deviation of operational cash flows from prior periods, scaled for comparability",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 28,
+    "alphaCount": 35,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pa_3idp",
+    "description": "Performance Deviation Index over 3 trailing quarters measuring the deviation of accounts payable from its historical norm, likely scaled by firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pa_4idp",
+    "description": "Performance Deviation Index over trailing 4 quarters for absolute accounts payable, scaled, quantifying deviation from its historical baseline",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 3,
+    "alphaCount": 3,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pa_5idp",
+    "description": "Performance Deviation Index over 5 trailing quarters, measuring the absolute deviation of Accounts Payable (amount owed to suppliers) from its historical norm, scaled by firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi3_caps",
+    "description": "Absolute deviation over the past 3 quarters in the firm's capital surplus (excess paid-in capital), scaled for firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 10,
+    "alphaCount": 10,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi3_cash",
+    "description": "Deviation in the firm's total cash holdings, measured at an absolute level over 3 trailing quarters and scaled by firm size to identify abnormal cash accumulation or depletion",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 38,
+    "alphaCount": 48,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi3_ebitda",
+    "description": "Performance Deviation Index over 3 trailing quarters, measuring absolute deviation in EBITDA from the firm's historical norm, scaled by firm size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 27,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi3_sale",
+    "description": "Raw Performance Deviation Index over 3 trailing quarters, quantifying how much the firm's sales have deviated from their historical norm, scaled for comparability",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 8,
+    "alphaCount": 8,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi4_caps",
+    "description": "Performance Deviation Index over 4 quarters for Capital Surplus, measuring its deviation from the historical or expected value",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 17,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi4_cash",
+    "description": "PDI factor quantifying the absolute deviation in cash levels from the firm’s historical norm over the trailing 4 quarters, scaled by size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 24,
+    "alphaCount": 26,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi4_ebitda",
+    "description": "Performance Deviation Index (PDI) over 4 quarters for EBITDA, measuring deviation of EBITDA from its historical baseline, scaled by total assets or similar size variable",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 25,
+    "alphaCount": 31,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi4_sale",
+    "description": "Performance Deviation Index over 4 trailing quarters based on absolute sales (turnover), measuring deviation of firm's sales from its recent historical level, typically scaled by assets or size",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 15,
+    "alphaCount": 18,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi5_caps",
+    "description": "Performance Deviation Index over five trailing quarters for capital surplus, quantifying absolute deviation from its historical values, size-standardized",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 11,
+    "alphaCount": 18,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi5_cash",
+    "description": "The PDI factor over 5 trailing quarters, measuring the deviation in the firm's cash holdings from its historical average, scaled appropriately to account for size, indicating changes in cash management or liquidity",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 74,
+    "alphaCount": 148,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi5_ebitda",
+    "description": "Performance Deviation Index (PDI) over 5 quarters for EBITDA, measuring the deviation in earnings before interest, taxes, depreciation, and amortization relative to historical norms, size-adjusted",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 4,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pdi5_sale",
+    "description": "Performance Deviation Index over trailing 5 quarters based on absolute sales revenue, scaled appropriately, capturing deviation in sales versus historical average",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pg_3idp",
+    "description": "The PDI factor over 3 trailing quarters, measuring the deviation of the firm's Gross Profit from its historical average, scaled for size, reflecting recent shifts in core profitability",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 10,
+    "alphaCount": 10,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pg_4idp",
+    "description": "Performance Deviation Index over 4 quarters measuring the deviation of Gross Profit from its expected or average value (absolute, scaled by size)",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 14,
+    "alphaCount": 17,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_pg_5idp",
+    "description": "Raw PDI factor over 5 trailing quarters measuring deviation in gross profit (scaled appropriately) from its historical value",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 9,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_berry",
+    "description": "Quality-adjusted Performance Deviation Index over 3 quarters capturing deviation in the Berry Ratio (Gross Profit / Operating Expenses), measuring changes in profitability efficiency over that window",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 10,
+    "alphaCount": 21,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_cfo_curr_liab",
+    "description": "Quality-adjusted PDI factor measuring deviation of operating cash flow to current liabilities ratio over the trailing 3 quarters",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_cfrnoa",
+    "description": "Quality-adjusted PDI over 3 trailing quarters based on Cash Flow Return on Net Operating Assets, tracking deviation from the historical baseline for this ratio",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 15,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_cfroa",
+    "description": "Quality-adjusted Performance Deviation Index over 3 quarters measuring deviation in Cash Flow Return on Assets from its norm",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 19,
+    "alphaCount": 31,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_cfroe",
+    "description": "3-quarter quality-adjusted PDI factor measuring deviation in cash flow return on equity (cash flow from operations divided by equity) from its historical baseline, reflecting cash flow profitability trends",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 9,
+    "alphaCount": 9,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_current_r",
+    "description": "Quality-adjusted Performance Deviation Index over 3 quarters for the current ratio (Current Assets / Current Liabilities), measuring the deviation in liquidity from its historical norm",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 3,
+    "alphaCount": 4,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_debt_capital",
+    "description": "Three-quarter trailing quality-adjusted PDI factor measuring deviation in the Debt-to-Capital ratio (Total Debt / [Debt + Shareholders’ Equity]) relative to its historical baseline",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 13,
+    "alphaCount": 13,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  },
+  {
+    "id": "mdl138_qpdi3_debt_equity",
+    "description": "Quality-adjusted Performance Deviation Index over 3 trailing quarters, measuring the deviation of the company's Debt to Equity ratio from its historical average",
+    "dataset": {
+      "id": "model138",
+      "name": "Stock Selection from Accounting-based Factors"
+    },
+    "category": {
+      "id": "model",
+      "name": "Model"
+    },
+    "subcategory": {
+      "id": "model-mlai-models",
+      "name": "ML/AI Models"
+    },
+    "region": "EUR",
+    "delay": 1,
+    "universe": "TOP2500",
+    "type": "VECTOR",
+    "dateCoverage": 0.9507,
+    "coverage": 0.5537,
+    "userCount": 17,
+    "alphaCount": 20,
+    "pyramidMultiplier": 1.3,
+    "themes": [],
+    "dateCreated": "2022-12-01"
+  }
+]

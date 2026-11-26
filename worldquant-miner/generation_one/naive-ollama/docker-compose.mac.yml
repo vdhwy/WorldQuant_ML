@@ -1,0 +1,96 @@
+services:
+  naive-ollma:
+    build:
+      context: .
+      dockerfile: Dockerfile.cpu
+    container_name: naive-ollma-mac
+    ports:
+      - "11434:11434"  # Exposed if needed
+    volumes:
+      - ./credential.txt:/app/credential.txt:ro  # Mount credentials
+      - ./results:/app/results  # Mount results directory
+      - ./logs:/app/logs  # Mount logs directory
+      - .:/app  # Mount current directory for hopeful_alphas.json sharing
+    environment:
+      - OLLAMA_HOST=0.0.0.0
+      - OLLAMA_ORIGINS=*
+      - PYTHONUNBUFFERED=1
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    deploy:
+      resources:
+        limits:
+          memory: 12G
+          cpus: '4.0'
+    restart: unless-stopped
+    command: ["python", "alpha_orchestrator.py", "--mode", "continuous", "--ollama-url", "http://host.docker.internal:11434", "--batch-size", "2", "--max-concurrent", "2"]
+    networks:
+      - naive-ollma-network
+
+  # Optional: Add a simple web interface for monitoring
+  ollama-webui:
+    image: ghcr.io/ollama-webui/ollama-webui:main
+    container_name: ollama-webui-mac
+    ports:
+      - "3000:8080"
+    environment:
+      - OLLAMA_API_BASE_URL=http://host.docker.internal:11434/api
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      - naive-ollma
+    restart: unless-stopped
+    networks:
+      - naive-ollma-network
+      
+  # Machine Miner Service
+  machine-miner:
+    build:
+      context: .
+      dockerfile: Dockerfile.cpu
+    container_name: machine-miner-mac
+    volumes:
+      - ./credential.txt:/app/credential.txt:ro
+      - ./results:/app/results
+      - ./logs:/app/logs
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    deploy:
+      resources:
+        limits:
+          memory: 8G
+          cpus: '2.0'
+    restart: unless-stopped
+    command: ["python", "machine_miner.py", "--credentials", "/app/credential.txt", "--region", "USA", "--universe", "TOP3000"]
+    depends_on:
+      - naive-ollma
+    networks:
+      - naive-ollma-network
+
+  # Alpha Generator Dashboard
+  alpha-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.cpu
+    container_name: alpha-dashboard-mac
+    ports:
+      - "5050:5000"
+    volumes:
+      - ./results:/app/results
+      - ./logs:/app/logs
+      - ./credential.txt:/app/credential.txt:ro
+      - .:/app  # Mount current directory for hopeful_alphas.json sharing
+    environment:
+      - FLASK_ENV=production
+      - PYTHONUNBUFFERED=1
+    command: ["python", "web_dashboard.py"]
+    depends_on:
+      - naive-ollma
+    restart: unless-stopped
+    networks:
+      - naive-ollma-network
+
+networks:
+  naive-ollma-network:
+    driver: bridge
