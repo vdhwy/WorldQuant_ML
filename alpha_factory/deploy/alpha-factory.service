@@ -1,0 +1,19 @@
+[Unit]
+Description=WorldQuant BRAIN Alpha Factory Daemon
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/worldquant
+Environment=PYTHONUNBUFFERED=1
+EnvironmentFile=-/opt/worldquant/.env
+ExecStart=/opt/worldquant/.venv/bin/python -m alpha_factory run --config alpha_factory/config/settings.yaml
+Restart=always
+RestartSec=15
+TimeoutStopSec=360
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

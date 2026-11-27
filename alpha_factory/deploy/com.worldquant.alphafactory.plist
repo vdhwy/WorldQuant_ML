@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.worldquant.alphafactory</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/ad/Desktop/WorldQuant/.venv/bin/python</string>
+        <string>-m</string>
+        <string>alpha_factory</string>
+        <string>run</string>
+        <string>--config</string>
+        <string>alpha_factory/config/settings.yaml</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/ad/Desktop/WorldQuant</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/ad/Desktop/WorldQuant/alpha_factory/data/logs/launchd.stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/ad/Desktop/WorldQuant/alpha_factory/data/logs/launchd.stderr.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PYTHONUNBUFFERED</key>
+        <string>1</string>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+</dict>
+</plist>

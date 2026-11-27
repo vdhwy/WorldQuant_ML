@@ -1,0 +1,264 @@
+# Alpha Factory Configuration
+# Values here override built-in defaults via deep merge in load_settings().
+
+brain:
+  # Base URL for WorldQuant BRAIN REST API
+  api_url: "https://api.worldquantbrain.com"
+  # HTTP connection and read timeouts (seconds)
+  connect_timeout_s: 10
+  read_timeout_s: 60
+  # Local paths for cached session cookies and BRAIN credentials
+  session_cache_path: "~/secrets/alpha-factory-session.json"
+  credentials_path: "~/secrets/platform-brain.json"
+  # Proactively re-authenticate when remaining session TTL falls below threshold (seconds)
+  relogin_ttl_threshold_s: 1800
+  # Biometric / 2FA polling interval and maximum wait duration (seconds)
+  biometric_poll_interval_s: 15
+  biometric_max_wait_s: 1800
+
+polling:
+  # Maximum total wait time for simulation futures (seconds)
+  max_wait_s: 3600
+  # Maximum wait time for recordset/correlation endpoints (seconds)
+  recordset_max_wait_s: 600
+  # Default fallback polling interval when Retry-After header is absent (seconds)
+  default_interval_s: 5
+  # Maximum transient HTTP retries per request
+  max_http_retries: 3
+
+storage:
+  # SQLite database file path
+  db_path: "alpha_factory/data/alpha_factory.db"
+  # Directory for cached daily PnL series
+  pnl_dir: "alpha_factory/data/pnl"
+  # Directory for automated database backups
+  backup_dir: "alpha_factory/data/backups"
+
+markets:
+  USA:
+    default_universe: "TOP3000"
+    universes:
+      - "TOP3000"
+      - "TOP1000"
+      - "TOP500"
+      - "TOP200"
+      - "ILLIQUID_MINVOL1M"
+    neutralizations:
+      - "INDUSTRY"
+      - "SUBINDUSTRY"
+      - "SECTOR"
+      - "COUNTRY"
+      - "REVERSION_AND_MOMENTUM"
+      - "STATISTICAL"
+      - "CROWDING"
+      - "FAST"
+      - "SLOW"
+      - "MARKET"
+      - "SLOW_AND_FAST"
+    default_neutralization: "INDUSTRY"
+    slots_required: 1
+    delay: 1
+
+  EUR:
+    default_universe: "TOP2500"
+    universes:
+      - "TOP2500"
+      - "TOP1200"
+      - "TOP800"
+      - "TOP400"
+      - "ILLIQUID_MINVOL1M"
+    neutralizations:
+      - "INDUSTRY"
+      - "SUBINDUSTRY"
+      - "SECTOR"
+      - "COUNTRY"
+      - "REVERSION_AND_MOMENTUM"
+      - "STATISTICAL"
+      - "CROWDING"
+      - "FAST"
+      - "SLOW"
+      - "MARKET"
+      - "SLOW_AND_FAST"
+    default_neutralization: "INDUSTRY"
+    slots_required: 1
+    delay: 1
+
+  ASI:
+    default_universe: "MINVOL1M"
+    universes:
+      - "MINVOL1M"
+      - "ILLIQUID_MINVOL1M"
+    neutralizations:
+      - "INDUSTRY"
+      - "SUBINDUSTRY"
+      - "SECTOR"
+      - "COUNTRY"
+      - "REVERSION_AND_MOMENTUM"
+      - "STATISTICAL"
+      - "CROWDING"
+      - "FAST"
+      - "SLOW"
+      - "MARKET"
+      - "SLOW_AND_FAST"
+    default_neutralization: "INDUSTRY"
+    slots_required: 1
+    delay: 1
+
+  CHN:
+    default_universe: "TOP2000U"
+    universes:
+      - "TOP2000U"
+    neutralizations:
+      - "INDUSTRY"
+      - "SUBINDUSTRY"
+      - "SECTOR"
+      - "REVERSION_AND_MOMENTUM"
+      - "CROWDING"
+      - "FAST"
+      - "SLOW"
+      - "MARKET"
+      - "SLOW_AND_FAST"
+    default_neutralization: "INDUSTRY"
+    slots_required: 1
+    delay: 1
+
+  IND:
+    default_universe: "TOP500"
+    universes:
+      - "TOP500"
+    neutralizations:
+      - "INDUSTRY"
+      - "SUBINDUSTRY"
+      - "SECTOR"
+      - "COUNTRY"
+      - "REVERSION_AND_MOMENTUM"
+      - "STATISTICAL"
+      - "CROWDING"
+      - "FAST"
+      - "SLOW"
+      - "MARKET"
+      - "SLOW_AND_FAST"
+    default_neutralization: "INDUSTRY"
+    slots_required: 1
+    delay: 1
+
+  GLB:
+    default_universe: "TOP3000"
+    universes:
+      - "TOP3000"
+      - "MINVOL1M"
+      - "TOPDIV3000"
+    neutralizations:
+      - "INDUSTRY"
+      - "SUBINDUSTRY"
+      - "SECTOR"
+      - "COUNTRY"
+      - "REVERSION_AND_MOMENTUM"
+      - "STATISTICAL"
+      - "CROWDING"
+      - "FAST"
+      - "SLOW"
+      - "MARKET"
+      - "SLOW_AND_FAST"
+    default_neutralization: "INDUSTRY"
+    slots_required: 2
+    delay: 1
+
+execution:
+  # Maximum concurrent BRAIN simulation slots
+  max_slots: 3
+  # Maximum expressions per multi-simulation batch
+  multi_sim_limit: 10
+  # Daily simulation quota cap and soft warning threshold
+  daily_sim_limit: 5000
+  warning_threshold: 4000
+  # Spread submissions evenly across the hour when enabled
+  hourly_pacing: true
+  # Consecutive regional failures before tripping circuit breaker
+  circuit_breaker_threshold: 3
+  # Cooldown duration after a region circuit breaker trips (seconds)
+  region_cooldown_s: 1800
+  # Default BRAIN simulation settings applied to generated candidates
+  default_settings:
+    alpha_type: "REGULAR"
+    delay: 1
+    decay: 4
+    neutralization: "INDUSTRY"
+    truncation: 0.08
+    pasteurization: "ON"
+    unit_handling: "VERIFY"
+    nan_handling: "OFF"
+    max_trade: "OFF"
+    test_period: "P2Y0M0D"
+    visualization: false
+
+generation:
+  # Queue watermarks controlling generator refill cycles
+  queue_low_watermark: 100
+  queue_high_watermark: 500
+  # Candidate generation source mix (should sum to 1.0)
+  mix:
+    template: 0.40
+    algorithmic_llm: 0.35
+    evolution: 0.25
+  # Diversity caps per AST structure and dataset-structure pair
+  max_per_structure: 3
+  max_per_dataset_structure: 2
+  # Standard rolling lookback windows (trading days)
+  lookback_days:
+    - 5
+    - 10
+    - 20
+    - 60
+    - 120
+  llm:
+    backend: "ollama"
+    base_url: "http://localhost:11434"
+    models:
+      - "deepseek-r1:8b"
+      - "qwen2.5-coder:7b"
+      - "deepseek-r1:1.5b"
+      - "llama3:3b"
+      - "phi3:mini"
+    api_base_url: ""
+    api_model: ""
+    timeout_s: 45
+
+qualification:
+  # Gate 1 performance thresholds
+  min_sharpe: 1.58
+  min_fitness: 1.0
+  min_turnover: 0.01
+  max_turnover: 0.70
+  min_margin: 0.0008
+  # Sanity upper bounds to flag suspicious/overfit backtests
+  max_sanity_sharpe: 6.0
+  max_sanity_returns: 0.50
+  # Gate 2 correlation ceilings
+  max_self_corr: 0.70
+  max_prod_corr: 0.70
+  check_power_pool: false
+  max_power_pool_corr: 0.50
+  # Flatline detection over recent tail trading days
+  flatline_zero_ratio_max: 0.30
+  flatline_tail_days: 252
+  # Tag qualified alphas on BRAIN platform
+  tag_on_brain: true
+
+dedup:
+  # Local PnL correlation threshold for vault deduplication
+  local_corr_threshold: 0.65
+  min_overlap_days: 120
+  trailing_window_days: 504
+  # Minimum score margin required to replace an existing vault peer
+  replacement_hysteresis: 0.05
+
+submission:
+  auto_submit: false
+  max_submissions_per_day: 2
+
+ops:
+  log_dir: "alpha_factory/data/logs"
+  shutdown_drain_timeout_s: 300
+  watchdog_extra_s: 60
+  telegram_enabled: false

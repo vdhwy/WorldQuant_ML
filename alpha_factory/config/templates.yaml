@@ -1,0 +1,51 @@
+# Curated FastExpr Starter Templates for Alpha Factory
+# Organized by structural category. Placeholders:
+#   {matrix_field} - MATRIX data field
+#   {vector_field} - VECTOR data field
+#   {field}        - Any compatible scalar/matrix data field
+#   {pos} / {neg}  - Paired positive/negative sentiment or directional vector fields
+#   {lookback}     - Rolling window length in trading days
+#   {ts_op}        - Time-series operator (e.g., ts_rank, ts_zscore, ts_mean, ts_delta)
+#   {vec_op}       - Vector aggregation operator (e.g., vec_avg, vec_sum, vec_max)
+#   {group}        - Grouping field (e.g., industry, subindustry, sector, country)
+
+templates:
+  matrix:
+    - name: "ts_rank_minus_mean"
+      pattern: "ts_rank({matrix_field}, {lookback}) - ts_mean({matrix_field}, {lookback})"
+      description: "Mean-reversion / momentum contrast between rolling percentile rank and rolling mean."
+    - name: "rank_backfill_matrix"
+      pattern: "rank(ts_backfill({matrix_field}, {lookback}))"
+      description: "Cross-sectional rank of backfilled matrix signal."
+    - name: "rank_zscore_ts_rank_interaction"
+      pattern: "rank(zscore(ts_rank(multiply(ts_backfill({matrix_field}, {lookback}), ts_backfill({field}, {lookback})), {lookback})))"
+      description: "Cross-sectionally standardized time-series rank of two interacted backfilled signals."
+
+  vector:
+    - name: "ts_vec_agg"
+      pattern: "{ts_op}({vec_op}({vector_field}), {lookback})"
+      description: "Time-series transform applied to vector-aggregated field."
+    - name: "vector_matrix_group_interaction"
+      pattern: "multiply(ts_backfill({vector_field}, {lookback}), group_rank(multiply(rank(ts_backfill({vector_field}, {lookback})), group_rank(ts_backfill({matrix_field}, {lookback}), subindustry)), industry))"
+      description: "Hierarchical vector and matrix signal interaction across subindustry and industry groups."
+
+  group_neutralize:
+    - name: "group_neutralize_ts_zscore"
+      pattern: "group_neutralize(ts_zscore({matrix_field}, {lookback}), {group})"
+      description: "Group-neutralized rolling z-score of a matrix field."
+    - name: "group_rank_ts_op"
+      pattern: "group_rank({ts_op}({matrix_field}, {lookback}), {group})"
+      description: "Within-group percentile rank of a time-series transformed matrix field."
+
+  sentiment:
+    - name: "sentiment_spread_ts_vec"
+      pattern: "{ts_op}({vec_op}({neg}) - {vec_op}({pos}), {lookback})"
+      description: "Time-series transform on negative-minus-positive vector sentiment spread."
+
+  fundamental:
+    - name: "fundamental_rank_backfill"
+      pattern: "rank(ts_backfill({matrix_field}, {lookback}))"
+      description: "Backfilled sparse fundamental ratio ranked cross-sectionally."
+    - name: "fundamental_group_neutralize_zscore"
+      pattern: "group_neutralize(ts_zscore({matrix_field}, {lookback}), {group})"
+      description: "Sector/industry neutralized fundamental time-series z-score."
